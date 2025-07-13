@@ -1,1 +1,53 @@
-site_name: My Docs
+site_name: Enkiria Wiki
+site_url: https://sitename.example
+theme:
+  name: material
+  font:
+    text: Acme
+    code: JetBrains Mono
+  icon:
+    logo: material/pokeball
+  favicon: assets/favicon.ico
+  palette:
+    # Darkmode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark Mode
+      primary: deep purple
+      accent: purple
+    # Lightmode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light Mode
+      primary: deep purple
+      accent: purple
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - navigation.expand
+    - navigation.sections
+    - navigation.footer
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: material/github
+      link: https://github.com/ZaMeR12/Enkiria-Wiki
+    - icon: simple/discord
+      link: https://discord.gg/RUjgy7wKXr
