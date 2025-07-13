@@ -5,22 +5,20 @@
 
     [Base info :material-pokeball:](https://pixelmonmod.com/wiki/Stufful){: .md-button .md-button--primary target="_blank"}
 
-<div markdown="span" style="float:left;border: 0.1rem solid DarkViolet;padding:0.1rem; marging:1rem;"> 
-<div markdown="span" style="float:left;text-align:center;">
+<div class="grid" markdown>
+Normal palette
 ![Stufful normal](../../assets/pixelmon/stufful/stufful.png){ width=150;}
-<p>Normal palette</p>
-</div>
-<div markdown="span" style="float:right;text-align:center;">
+{ .card }
+
+Shiny palette
 ![Stufful shiny](../../assets/pixelmon/stufful/stufful-shiny.png){ width=150;} 
-<p>Shiny palette</p>
-</div>
+{ .card }
+
 </div>
 
-
-<div markdown="1" style="margin-left:16rem;margin-top:0rem;padding-top:0rem;">
-### Entry
+## Entry
 Unbroken nights me broken disaster within surely sir i laden smiling if bust discourse came. We is and of or sat forget by disaster tapping lenore fowl here burden plutonian maiden deep at. Burden above loneliness is that here doubting days suddenly bird oer rustling nevermore i this what lore. Be this doubtless we still nearly that.Unbroken nights me broken disaster within surely sir i laden smiling if bust discourse came. We is and of or sat forget by disaster tapping lenore fowl here burden plutonian maiden deep at.
-</div>
+
 
 ## Types
 <div markdown="span">
