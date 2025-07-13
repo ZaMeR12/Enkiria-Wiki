@@ -1,21 +1,31 @@
+---
+description: ENkiria pixelmon server's wiki.
+---
 # Main Page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Welcome to the Enkiria Region
 
-Hôpital _Hôpital_
+![Enkiria logo](./assets/logo.png){width=300; align=left}
 
-## Commands
+!!! quote "A land where mythology, minerals, and modern marvels converge."
+    Step into Enkiria, a vibrant and mysterious region forged in the heart of legend and stone. From high-tech cities built atop ancient ruins to deep caverns glowing with mystical gems, Enkiria is a land where the past and future intertwine — and where Pokémon are more than just companions; they are woven into the very fabric of the world.
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+    Trainers who journey here will uncover forgotten myths, **_encounter unique regional forms_**, and face challenges shaped by Enkiria's rich lore and rugged beauty. Whether you're researching arcane relics, battling in high-tech arenas, or exploring crystal-lined mountains, the region offers a truly immersive roleplay experience unlike any other.
 
-## Project layout
+    Forge your story. Uncover the truth. Welcome to Enkiria.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 
-It's a pixelmon server wiki :material-pokeball:
+<figure markdown="span" >
+  ![Spawn](./assets/spawn.png){ width=720 }
+  <figcaption>Spawn</figcaption>
+</figure>
+
+## Useful links
+
+[Discord :simple-discord:](https://discord.gg/RUjgy7wKXr){: .md-button .md-button--primary target="_blank"}
+[Pixelmon Wiki :material-pokeball:](https://pixelmonmod.com/wiki/Main_Page){: .md-button .md-button--primary target="_blank"}
+[Curse Forge :simple-curseforge:](https://www.curseforge.com/download/app){: .md-button .md-button--primary target="_blank"}
+
+</br>
+
+<span style="font-size:1.5rem">:material-server: : enkiriapixelmon.mine.fun</span>
