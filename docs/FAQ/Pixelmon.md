@@ -8,3 +8,6 @@
 ??? question "Does Enrian forms are made for competitive?"
     We tried to make the best to be used in competitive battles without making these to much OP.
     We hope you will use them in your competitive team happily.
+
+??? question "Why the sprites of Enkirian forms in the menu are teal or red?"
+    We don't have money to pay designer/artist to recolor the sprites correctly. So we made the choice to colorize them to teal (normal palette) and red (shiny palette) to be easier to see if you have an Enkirian form in your team or PC.
