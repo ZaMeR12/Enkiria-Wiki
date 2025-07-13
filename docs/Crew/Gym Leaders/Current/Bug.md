@@ -5,6 +5,6 @@
     Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
 
 <figure markdown="span" >
-  ![Bug Gym](../../../assets/gym/bug/gym.png){ width=720 }
+  ![Bug Gym](../../../assets/gym/bug/gym.png){ width=720}
   <figcaption>Bug Gym</figcaption>
 </figure>

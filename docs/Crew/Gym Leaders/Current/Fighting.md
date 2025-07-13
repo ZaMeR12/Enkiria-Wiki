@@ -5,6 +5,6 @@
     Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
 
 <figure markdown="span" >
-  ![Fighting Gym](../../../assets/gym/fight/gym.png){ width=720 }
+  ![Fighting Gym](../../../assets/gym/fight/gym.png){ width=720}
   <figcaption>Fighting Gym</figcaption>
 </figure>

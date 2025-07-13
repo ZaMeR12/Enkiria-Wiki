@@ -7,7 +7,7 @@
     Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
 
 <figure markdown="span" >
-  ![Poison Gym](../../../assets/gym/poison/gym.png){ width=720 }
+  ![Poison Gym](../../../assets/gym/poison/gym.png){ width=720}
   <figcaption>Poison Gym</figcaption>
 </figure>
 
