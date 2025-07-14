@@ -1,24 +1,43 @@
 ---
-description: ENkiria pixelmon server's wiki.
+description: Enkiria pixelmon server's wiki.
+title: Home
+hide:
+  - navigation
+  - toc
+  - title
 ---
-# Main Page
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
 
-## Welcome to the Enkiria Region
+!!! tip
+    This wiki is best enjoyed on PC, but is still functional on mobile.
+    
 
-![Enkiria logo](./assets/logo.png){width=300; align=left}
+![Enkiria logo](logo.png){width=350; align=left}
 
-!!! quote "A land where mythology, minerals, and modern marvels converge."
-    Step into Enkiria, a vibrant and mysterious region forged in the heart of legend and stone. From high-tech cities built atop ancient ruins to deep caverns glowing with mystical gems, Enkiria is a land where the past and future intertwine — and where Pokémon are more than just companions; they are woven into the very fabric of the world.
+<div markdown >
+<h2 style="color:DarkViolet">Welcome to the Enkiria Region</h2>
 
-    Trainers who journey here will uncover forgotten myths, **_encounter unique regional forms_**, and face challenges shaped by Enkiria's rich lore and rugged beauty. Whether you're researching arcane relics, battling in high-tech arenas, or exploring crystal-lined mountains, the region offers a truly immersive roleplay experience unlike any other.
+A land where mythology, minerals, and modern marvels converge.
 
-    Forge your story. Uncover the truth. Welcome to Enkiria.
+Step into Enkiria, a vibrant and mysterious region forged in the heart of legend and stone. From high-tech cities built atop ancient ruins to deep caverns glowing with mystical gems, Enkiria is a land where the past and future intertwine — and where Pokémon are more than just companions; they are woven into the very fabric of the world.
 
+Trainers who journey here will uncover forgotten myths, **_encounter unique regional forms_**, and face challenges shaped by Enkiria's rich lore and rugged beauty. Whether you're researching arcane relics, battling in high-tech arenas, or exploring crystal-lined mountains, the region offers a truly immersive roleplay experience unlike any other.
 
-<figure markdown="span" >
-  ![Spawn](./assets/spawn.png){ width=720 }
+_Forge your story. Uncover the truth. Welcome to Enkiria._
+</div>
+    
+
+<div markdown class="outer">
+<figure markdown class="img1 embed news">
+  ![Spawn](spawn.png)
   <figcaption>Spawn</figcaption>
 </figure>
+</div>
 
 ## Useful links
 

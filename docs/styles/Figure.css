@@ -1,0 +1,39 @@
+/* Source: https://stackoverflow.com/a/28325189 */
+
+.outer {
+  display: block;
+  text-align: center;
+}
+
+/*** Base Caption Styles ***/
+figure.embed,
+figure.embed-top,
+figure.overlay,
+figure.embed-over {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    position: relative;
+    margin: 0.5em;
+    font-size: 1rem;
+    overflow: hidden;
+}
+figure.embed img,
+figure.embed-top img,
+figure.overlay img,
+figure.embed-over img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+figure.embed figcaption,
+figure.embed-top figcaption,
+figure.overlay figcaption,
+figure.embed-over figcaption {
+    width: 100%;
+    padding: 0.5em;
+}
+
+figcaption {
+    display: block;
+}

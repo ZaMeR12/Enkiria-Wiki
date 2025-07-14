@@ -7,22 +7,25 @@
 
 <div class="grid" markdown>
 Normal palette
-![Noivern normal](../../assets/pixelmon/noivern/noivern.png){ width=150;}
+![Noivern normal](noivern.png){ width=150;}
 { .card }
 
 Shiny palette
-![Noivern shiny](../../assets/pixelmon/noivern/noivern-shiny.png){ width=142;} 
+![Noivern shiny](noivern-shiny.png){ width=142;} 
 { .card }
 
 </div>
 
 ## Entry
-Unbroken nights me broken disaster within surely sir i laden smiling if bust discourse came. We is and of or sat forget by disaster tapping lenore fowl here burden plutonian maiden deep at. Burden above loneliness is that here doubting days suddenly bird oer rustling nevermore i this what lore. Be this doubtless we still nearly that.Unbroken nights me broken disaster within surely sir i laden smiling if bust discourse came. We is and of or sat forget by disaster tapping lenore fowl here burden plutonian maiden deep at.
+Feared in ancient Enkirian folklore, this nocturnal Pokémon was believed to bring omens of plague and storms. Its wings hum with a hypnotic resonance that lulls prey into stillness. Unlike its standard form, it feeds by piercing the carapace of large bug Pokémon, draining their vital essence in a ritualistic manner.
+
+### Category
+Vampire Drake Pokémon
 
 ## Types
 <div markdown="span">
-![Bug type](https://archives.bulbagarden.net/media/upload/thumb/9/9c/BugIC_BDSP.png/120px-BugIC_BDSP.png?20220318053830){ width=100; align=left;}
-![Dragon type](https://archives.bulbagarden.net/media/upload/thumb/c/c7/DragonIC_BDSP.png/120px-DragonIC_BDSP.png?20220318054024){ width=100; align=right;}
+![Bug type](bug-type.png){ width=100; align=left;}
+![Dragon type](dragon-type.png){ width=100; align=right;}
 </div>
 
 ## Evolutions
@@ -33,19 +36,30 @@ graph LR
   B -->|Level up at night 🌙| D[Enkirian Noivern];
 ```
 
+### Learning move
+
+- [Leech Life](https://pixelmonmod.com/wiki/Leech_Life){:target="_blank"}
+
 ## Battle stats
 
+=== "Graph"
 
-```vegalite
-{
-  "description": "Battle stats of the pokemon.",
-  "data": {"url": "../../assets/pixelmon/noivern/battleStats.json"}
-  ,
-  "mark": {"type": "bar", "tooltip": true},
-  "encoding": {
-    "x": {"field": "Stats", "type": "nominal", "axis": {"labelAngle": 0}},
-    "y": {"field": "Power", "type": "quantitative"}
-  }
-}
-```
+    ```vegalite
+    {
+      "description": "Battle stats of the pokemon.",
+      "data": {"url": "../../assets/pixelmon/noivern/battleStats.json"}
+      ,
+      "mark": {"type": "bar", "tooltip": true,"cornerRadiusEnd": 4},
+      "encoding": {
+        "y": {"field": "Stats", "type": "nominal", "axis": {"labelAngle": 0}},
+        "x": {"field": "Power", "type": "quantitative"},
+        "color": {"field": "Stats"}
+      }
+    }
+    ```
+
+=== "Table"
+
+    {{ read_json('../../assets/pixelmon/noivern/battleStats.json') }}
+
 Total: 535

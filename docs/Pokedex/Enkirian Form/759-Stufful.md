@@ -7,22 +7,24 @@
 
 <div class="grid" markdown>
 Normal palette
-![Stufful normal](../../assets/pixelmon/stufful/stufful.png){ width=150;}
+![Stufful normal](stufful.png){ width=150;}
 { .card }
 
 Shiny palette
-![Stufful shiny](../../assets/pixelmon/stufful/stufful-shiny.png){ width=150;} 
+![Stufful shiny](stufful-shiny.png){ width=150;} 
 { .card }
 
 </div>
 
 ## Entry
-Unbroken nights me broken disaster within surely sir i laden smiling if bust discourse came. We is and of or sat forget by disaster tapping lenore fowl here burden plutonian maiden deep at. Burden above loneliness is that here doubting days suddenly bird oer rustling nevermore i this what lore. Be this doubtless we still nearly that.Unbroken nights me broken disaster within surely sir i laden smiling if bust discourse came. We is and of or sat forget by disaster tapping lenore fowl here burden plutonian maiden deep at.
+This curious and playful Pokémon has a faint warmth radiating from its fur. In the wild, Enkirian Stufful often nest near volcanic vents or sunlit stones. It’s drawn to the company of Fire-type Pokémon, instinctively mimicking their behavior, as if preparing for something greater.
 
+### Category
+Ember Cub Pokémon
 
 ## Types
 <div markdown="span">
-![Normal type](https://archives.bulbagarden.net/media/upload/thumb/8/89/NormalIC_BDSP.png/120px-NormalIC_BDSP.png?20220318053507){ width=100; align=left;}
+![Normal type](normal-type.png){ width=100; align=left;}
 </div>
 
 ## Evolutions
@@ -39,16 +41,25 @@ graph LR
 
 ## Battle stats
 
-```vegalite
-{
-  "description": "Battle stats of the pokemon.",
-  "data": {"url": "../../assets/pixelmon/stufful/battleStats.json"}
-  ,
-  "mark": {"type": "bar", "tooltip": true},
-  "encoding": {
-    "x": {"field": "Stats", "type": "nominal", "axis": {"labelAngle": 0}},
-    "y": {"field": "Power", "type": "quantitative"}
-  }
-}
-```
+=== "Graph"
+
+    ```vegalite
+    {
+      "description": "Battle stats of the pokemon.",
+      "data": {"url": "../../assets/pixelmon/stufful/battleStats.json"}
+      ,
+      "mark": {"type": "bar", "tooltip": true,"cornerRadiusEnd": 4},
+      "encoding": {
+        "y": {"field": "Stats", "type": "nominal", "axis": {"labelAngle": 0}},
+        "x": {"field": "Power", "type": "quantitative"},
+        "color": {"field": "Stats"}
+      }
+    }
+    ```
+
+=== "Table"
+
+    {{ read_json('../../assets/pixelmon/stufful/battleStats.json') }}
+
+
 Total: 340

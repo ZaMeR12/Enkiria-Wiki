@@ -7,22 +7,25 @@
 
 <div class="grid" markdown>
 Normal palette
-![Noibat normal](../../assets/pixelmon/noibat/noibat.png){ width=150;}
+![Noibat normal](noibat.png){ width=150;}
 { .card }
 
 Shiny palette
-![Noibat shiny](../../assets/pixelmon/noibat/noibat-shiny.png){ width=150;} 
+![Noibat shiny](noibat-shiny.png){ width=150;} 
 { .card }
 
 </div>
 
 ## Entry
-Unbroken nights me broken disaster within surely sir i laden smiling if bust discourse came. We is and of or sat forget by disaster tapping lenore fowl here burden plutonian maiden deep at. Burden above loneliness is that here doubting days suddenly bird oer rustling nevermore i this what lore. Be this doubtless we still nearly that.Unbroken nights me broken disaster within surely sir i laden smiling if bust discourse came. We is and of or sat forget by disaster tapping lenore fowl here burden plutonian maiden deep at.
+In the dense, misty jungles of Enkiria, Enkirian Noibat nests inside hollowed trees, emerging only at dusk. It uses the ultrasonic vibrations from its wings to locate prey and extract nectar-like fluids from giant insect husks. Travelers say its cries sound like whispers asking for permission to feed.
+
+### Category
+Leech Pokémon
 
 ## Types
 <div markdown="span">
-![Bug type](https://archives.bulbagarden.net/media/upload/thumb/9/9c/BugIC_BDSP.png/120px-BugIC_BDSP.png?20220318053830){ width=100; align=left;}
-![Dragon type](https://archives.bulbagarden.net/media/upload/thumb/c/c7/DragonIC_BDSP.png/120px-DragonIC_BDSP.png?20220318054024){ width=100; align=right;}
+![Bug type](bug-type.png){ width=100; align=left;}
+![Dragon type](dragon-type.png){ width=100; align=right;}
 </div>
 
 ## Evolutions
@@ -40,16 +43,24 @@ graph LR
 
 ## Battle stats
 
-```vegalite
-{
-  "description": "Battle stats of the pokemon.",
-  "data": {"url": "../../assets/pixelmon/noibat/battleStats.json"}
-  ,
-  "mark": {"type": "bar", "tooltip": true},
-  "encoding": {
-    "x": {"field": "Stats", "type": "nominal", "axis": {"labelAngle": 0}},
-    "y": {"field": "Power", "type": "quantitative"}
-  }
-}
-```
+=== "Graph"
+
+    ```vegalite
+    {
+      "description": "Battle stats of the pokemon.",
+      "data": {"url": "../../assets/pixelmon/noibat/battleStats.json"}
+      ,
+      "mark": {"type": "bar", "tooltip": true,"cornerRadiusEnd": 4},
+      "encoding": {
+        "y": {"field": "Stats", "type": "nominal", "axis": {"labelAngle": 0}},
+        "x": {"field": "Power", "type": "quantitative"},
+        "color": {"field": "Stats"}
+      }
+    }
+    ```
+
+=== "Table"
+
+    {{ read_json('../../assets/pixelmon/noibat/battleStats.json') }}
+
 Total: 245
