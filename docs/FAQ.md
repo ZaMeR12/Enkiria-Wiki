@@ -33,3 +33,11 @@ hide:
 ??? question "Why the chart of battle stats of pokemons are not shown correctly?"
     Sometimes, the library used to show the chart for battle stats have some difficulty to load. In my side, I just need to refresh the page.
     After, that charts for battle stats show correctly.
+
+
+## Other Problems
+
+??? question "Have you encounter a problem in the wiki or other ressources associate about codes?"
+    You can communicate by discord to staff members who have the role **Dev**.
+
+    [Discord :simple-discord:](https://discord.gg/RUjgy7wKXr){: .md-button .md-button--primary target="_blank"}

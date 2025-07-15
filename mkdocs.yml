@@ -3,7 +3,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega-lite@5
   - https://cdn.jsdelivr.net/npm/vega-embed@6
 site_name: Enkiria Wiki
-site_url: https://sitename.example
+site_url: http://localhost:5500
 theme:
   name: material
   font:
