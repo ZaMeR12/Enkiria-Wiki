@@ -6,6 +6,9 @@ hide:
 
 # Badges - Gym's Gemstone
 
+!!! note
+    It's normal that some of the picture are not shown here, because we don't have art representing some leaders at the moment.
+
 <div class="grid" markdown>
 Bug Gemstone
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

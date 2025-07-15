@@ -32,9 +32,9 @@ Cyber Grace Pokémon
 
 ``` mermaid
 graph LR
-  A[Togetic] --> |Using a Shiny Stone </br> <img title="Shiny stone" src="https://archives.bulbagarden.net/media/upload/9/93/Bag_Shiny_Stone_LA_Sprite.png" width="100">| B[Togekiss];
+  A[Togetic] --> |Using a Shiny Stone </br> <img title="Shiny stone" src="https://images.weserv.nl/?url=archives.bulbagarden.net/media/upload/9/93/Bag_Shiny_Stone_LA_Sprite.png" width="100">| B[Togekiss];
   A --> C{Level 30};
-  C --> |Holding an Upgrade </br> <img title="Upgrade" src="https://archives.bulbagarden.net/media/upload/f/f1/Bag_Upgrade_LA_Sprite.png" width="100">| D[Enkirian Togekiss]
+  C --> |Holding an Upgrade </br> <img title="Upgrade" src="https://images.weserv.nl/?url=archives.bulbagarden.net/media/upload/f/f1/Bag_Upgrade_LA_Sprite.png" width="100">| D[Enkirian Togekiss]
 ```
 
 ### Learning move
