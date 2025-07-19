@@ -46,7 +46,7 @@ graph LR
     ```vegalite
     {
       "description": "Battle stats of the pokemon.",
-      "data": {"url": "../../assets/pixelmon/stufful/battleStats.json"}
+      "data": {"url": "assets/pixelmon/stufful/battleStats.json"}
       ,
       "mark": {"type": "bar", "tooltip": true,"cornerRadiusEnd": 4},
       "encoding": {
@@ -59,7 +59,7 @@ graph LR
 
 === "Table"
 
-    {{ read_json('../../assets/pixelmon/stufful/battleStats.json') }}
+    {{ read_json('assets/pixelmon/stufful/battleStats.json') }}
 
 
 Total: 340
