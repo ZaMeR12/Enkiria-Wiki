@@ -8,7 +8,7 @@
 
 <div markdown class="outer">
 <figure markdown class="img1 embed news">
-  ![Ryuu Labs](labs.png)
+  ![Ryuu Labs](labs.png){.radiusImg10}
   <figcaption>Ryuu Labs</figcaption>
 </figure>
 </div>

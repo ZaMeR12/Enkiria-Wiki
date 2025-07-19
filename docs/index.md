@@ -34,7 +34,7 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
 
 <div markdown class="outer">
 <figure markdown class="img1 embed news">
-  ![Spawn](spawn.png)
+  ![Spawn](spawn.png){.radiusImg15}
   <figcaption>Spawn</figcaption>
 </figure>
 </div>

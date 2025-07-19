@@ -196,6 +196,29 @@ pyrightconfig.json
 .history
 .ionide
 
-
+# MkDocs build output
+/site/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+*.env
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+*.tmp
+*.cache
+*.vscode/
+node_modules/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pydev,visualstudiocode

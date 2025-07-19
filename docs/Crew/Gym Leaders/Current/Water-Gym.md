@@ -8,7 +8,7 @@
 
 <div markdown class="outer">
 <figure markdown class="img1 embed news">
-  ![Water Gym](water-gym.png)
+  ![Water Gym](water-gym.png){.radiusImg10}
   <figcaption>Water Gym</figcaption>
 </figure>
 </div>

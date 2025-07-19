@@ -12,7 +12,7 @@
 
 <div markdown class="outer">
 <figure markdown class="img1 embed news">
-  ![Dark Gym](dark-gym.png)
+  ![Dark Gym](dark-gym.png){.radiusImg10}
   <figcaption>Dark Gym</figcaption>
 </figure>
 </div>
