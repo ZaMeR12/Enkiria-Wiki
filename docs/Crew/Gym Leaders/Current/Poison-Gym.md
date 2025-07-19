@@ -3,9 +3,9 @@
 ![Willow Art](willow-leader.png){width=200; align=left}
 
 !!! quote "Poison Gym Leader message"
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing. The straight than but dreams the yet this is surely. It our with is a all a entrance rustling is. Before the horror such door the nameless leave from.
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
+    The Poison Gym will not be an easy win, whoever chooses to assault my fortress will face strong resistance. As the Poison specialist, I use a mix of status effects to incapacitate my opponents and obliterate them to the ground. 
 
+    My partner Zombie Cranberry and I await your challenge!
 </br>
 
 ## Gym
