@@ -12,4 +12,4 @@
 
 ### Example
 
-![Oraange Pokebag Recipe](poke_bag_orange.png){.radiusImg5}
+![Orange Pokebag Recipe](poke_bag_orange.png){.radiusImg5}
