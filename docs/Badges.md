@@ -77,9 +77,9 @@ Water Gemstone
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Water Gemstone](water-badge.png){ width=50 }
 </br>
-[Gym leader - Unknown](Water-Gym.md){:target="_blank"}
+[Gym leader - Cora](Water-Gym.md){:target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Gym Leader Water](unknown-leader.png){ width=100 }
+![Gym Leader Water](cora-leader.png){ width=100 }
 { .card }
 
 </div>
