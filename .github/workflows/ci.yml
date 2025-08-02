@@ -25,6 +25,8 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - name: Upgrade pip
+        run: pip install --upgrade pip
       - name: Install dependencies
         run: |
           pip install \
@@ -33,9 +35,8 @@ jobs:
             mkdocs-material-extensions \
             mkdocs-charts-plugin \
             mkdocs-glightbox \
-            mkdocs-table-reader \
             mkdocs-autolinks-plugin \
             pymdown-extensions \
-            "mkdocs-material[imaging]" 
+            "mkdocs-material[imaging]"
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
