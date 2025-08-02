@@ -52,8 +52,16 @@ graph LR
     ```vegalite
     {
       "description": "Battle stats of the pokemon.",
-      "data": {"url": "assets/pixelmon/noivern/battleStats.json"}
-      ,
+      "data": {
+        "values": [
+          {"Stats": "Hp", "Power": 85}, 
+          {"Stats": "Attack", "Power": 97},
+          {"Stats": "Defense", "Power": 80},
+          {"Stats": "Sp.Attack", "Power": 70},
+          {"Stats": "Sp.Defense", "Power": 80},
+          {"Stats": "Speed", "Power": 123}
+        ]
+      },
       "mark": {"type": "bar", "tooltip": true,"cornerRadiusEnd": 4},
       "encoding": {
         "y": {"field": "Stats", "type": "nominal", "axis": {"labelAngle": 0}},
