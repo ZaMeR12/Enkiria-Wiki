@@ -1,3 +1,8 @@
+---
+title: Electric Gym - Raiko
+description: Meet Raiko, the Electric Gym Leader, and explore the Electric Gym.
+---
+
 # Electric - Raiko
 
 !!! quote "Electric Gym Leader message"

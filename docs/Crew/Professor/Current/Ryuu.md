@@ -1,3 +1,8 @@
+---
+title: Professor Ryuu
+description: Meet Professor Ryuu, the Enkiria region's Pokémon Professor, and explore his lab.
+---
+
 # Professor Ryuu
 
 ![Ryuu art](ryuu.png){width=450; align=left}

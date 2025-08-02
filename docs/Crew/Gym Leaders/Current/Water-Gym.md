@@ -1,3 +1,8 @@
+---
+title: Water Gym - Cora
+description: Meet Cora, the Water Gym Leader, and explore the Water Gym.
+---
+
 # Water -  Cora
 
 ![Cora Art](cora-leader.png){width=175; align=left}

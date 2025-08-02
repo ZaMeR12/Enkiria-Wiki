@@ -1,3 +1,8 @@
+---
+title: Server Information
+description: Learn how to connect to the Enkiria Pixelmon server.
+---
+
 # Infos
 
 !!! info 

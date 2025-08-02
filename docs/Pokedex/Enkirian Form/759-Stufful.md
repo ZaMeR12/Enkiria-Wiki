@@ -1,3 +1,8 @@
+---
+title: Stufful - Enkirian Form
+description: Learn about the Enkirian Form of Stufful.
+---
+
 # 759 - Stufful
 
 !!! note

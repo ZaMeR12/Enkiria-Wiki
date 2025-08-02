@@ -1,4 +1,6 @@
 ---
+title: FAQ
+description: FAQ about the Enkiria Pixelmon server, modpack, and more.
 hide:
   - navigation
 ---

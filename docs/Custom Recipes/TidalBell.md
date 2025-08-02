@@ -1,3 +1,8 @@
+---
+title: Tidal Bell
+description: Learn how to craft the Tidal Bell.
+---
+
 # Tidal Bell
 
 ## Recipe

@@ -1,3 +1,8 @@
+---
+title: Steel Gym - Tarou
+description: Meet Tarou, the Steel Gym Leader, and explore the Steel Gym.
+---
+
 # Steel - Tarou
 
 

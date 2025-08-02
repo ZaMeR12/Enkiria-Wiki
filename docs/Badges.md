@@ -1,4 +1,6 @@
 ---
+title: Badges - Gym's Gemstone
+description: Explore the Gym's Gemstone badges and their respective leaders.
 hide:
   - navigation
   - toc

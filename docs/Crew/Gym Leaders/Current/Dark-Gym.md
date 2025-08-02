@@ -1,3 +1,8 @@
+---
+title: Dark Gym - Delilah
+description: Meet Delilah, the Dark Gym Leader, and explore the Dark Gym.
+---
+
 # Dark - Delilah
 
 ![Doran Art](delilah-leader.png){width=175; align=left}

@@ -1,3 +1,8 @@
+---
+title: Poison Gym - Willow
+description: Meet Willow, the Poison Gym Leader, and explore the Poison Gym.
+---
+
 # Poison - Willow
 
 ![Willow Art](willow-leader.png){width=200; align=left}

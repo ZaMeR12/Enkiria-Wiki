@@ -1,3 +1,8 @@
+---
+title: Badges Pouch
+description: Learn about the custom badges pouch and how to craft it.
+---
+
 # Badges Pouch
 
 !!! info

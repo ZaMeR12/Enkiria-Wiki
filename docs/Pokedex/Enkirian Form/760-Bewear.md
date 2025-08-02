@@ -1,3 +1,8 @@
+---
+title: Bewear - Enkirian Form
+description: Learn about the Enkirian Form of Bewear.
+---
+
 # 760 - Bewear
 
 !!! note

@@ -1,3 +1,8 @@
+---
+title: Noivern - Enkirian Form
+description: Learn about the Enkirian Form of Noivern.
+---
+
 # 715 - Noivern
 
 !!! note

@@ -2,6 +2,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega@5
   - https://cdn.jsdelivr.net/npm/vega-lite@5
   - https://cdn.jsdelivr.net/npm/vega-embed@6
+  - assets/scripts/bk.js
 site_name: Enkiria Wiki
 site_url: https://zamer12.github.io/Enkiria-Wiki
 theme:
@@ -34,6 +35,9 @@ theme:
     - navigation.expand
     - navigation.sections
     - navigation.footer
+    - social.cards
+  social:
+    image: "assets/socials/water-gym-social.jpg"  # Image par défaut pour les cartes sociales
 
 markdown_extensions:
   - attr_list
@@ -66,7 +70,9 @@ plugins:
   - charts
   - table-reader
   - autolinks 
-
+  - social
+  - meta
+ 
 extra_css: 
   - styles/figure.css
   - styles/Imgs.css

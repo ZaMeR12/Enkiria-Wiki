@@ -1,3 +1,8 @@
+---
+title: Luxray - Enkirian Form
+description: Learn about the Enkirian Form of Luxray.
+---
+
 # 405 - Luxray
 
 !!! note

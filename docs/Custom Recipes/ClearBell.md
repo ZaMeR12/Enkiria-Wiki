@@ -1,3 +1,8 @@
+---
+title: Clear Bell
+description: Learn how to craft the Clear Bell.
+---
+
 # Clear Bell
 
 ## Recipe

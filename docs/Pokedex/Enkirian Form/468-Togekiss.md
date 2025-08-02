@@ -1,3 +1,8 @@
+---
+title: Togekiss - Enkirian Form
+description: Learn about the Enkirian Form of Togekiss.
+---
+
 # 468 - Togekiss
 
 !!! note

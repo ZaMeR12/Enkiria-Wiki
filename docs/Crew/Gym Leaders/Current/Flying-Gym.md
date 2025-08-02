@@ -1,3 +1,8 @@
+---
+title: Flying Gym - ZaMeR
+description: Meet ZaMeR, the Flying Gym Leader, and explore the Flying Gym.
+---
+
 # Flying - ZaMeR
 
 ![ZaMeR Art](zamer-leader.png){width=200; align=left}

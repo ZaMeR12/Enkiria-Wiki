@@ -1,4 +1,6 @@
 ---
+title: Tools
+description: Explore various tools available for team building and planning in Pixelmon.
 hide:
   - navigation
 ---

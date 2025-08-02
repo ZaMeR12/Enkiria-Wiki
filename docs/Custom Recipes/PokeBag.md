@@ -1,3 +1,8 @@
+---
+title: Pokebag
+description: Learn how to craft the Pokebag.
+---
+
 # Pokebag
 
 !!! tips

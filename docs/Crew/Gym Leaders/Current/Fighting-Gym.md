@@ -1,3 +1,8 @@
+---
+title: Fighting Gym - Masaki
+description: Meet Masaki, the Fighting Gym Leader, and explore the Fighting Gym.
+---
+
 # Fighting - Masaki
 
 ![Masaki Art](masaki-leader.gif){width=200; align=left}

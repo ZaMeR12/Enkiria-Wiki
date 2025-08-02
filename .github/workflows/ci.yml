@@ -35,6 +35,7 @@ jobs:
             mkdocs-glightbox \
             mkdocs-table-reader \
             mkdocs-autolinks-plugin \
-            pymdown-extensions
+            pymdown-extensions \
+            "mkdocs-material[imaging]" 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force

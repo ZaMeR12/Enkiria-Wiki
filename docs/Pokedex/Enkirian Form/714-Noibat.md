@@ -1,3 +1,8 @@
+---
+title: Noibat - Enkirian Form
+description: Learn about the Enkirian Form of Noibat.
+---
+
 # 714 - Noibat
 
 !!! note

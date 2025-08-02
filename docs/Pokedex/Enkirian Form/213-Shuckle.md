@@ -1,3 +1,8 @@
+---
+title: Shuckle - Enkirian Form
+description: Learn about the Enkirian Form of Shuckle.
+---
+
 # 213 - Shuckle
 
 !!! note
