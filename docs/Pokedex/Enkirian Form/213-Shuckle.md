@@ -42,7 +42,7 @@ Alchemy Pokémon
     ```vegalite
     {
       "description": "Battle stats of the pokemon.",
-      "data": {"url": "assets/pixelmon/shuckle/battleStats.json"}
+      "data": {"url": "/assets/pixelmon/shuckle/battleStats.json"}
       ,
       "mark": {"type": "bar", "tooltip": true,"cornerRadiusEnd": 4},
       "encoding": {
