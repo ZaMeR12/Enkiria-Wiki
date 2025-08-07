@@ -37,7 +37,6 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
     id="playlistVideo"
     controls
     allowfullscreen
-    poster="/path/to/poster.png"
     muted
     autoplay
     class="radiusImg5"

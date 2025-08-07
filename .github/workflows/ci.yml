@@ -38,6 +38,7 @@ jobs:
             mkdocs-autolinks-plugin \
             mkdocs-table-reader-plugin \
             pymdown-extensions \
-            "mkdocs-material[imaging]"
+            "mkdocs-material[imaging]" \
+            mkdocs-audio 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force

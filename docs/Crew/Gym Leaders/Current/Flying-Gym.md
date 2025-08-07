@@ -5,7 +5,7 @@ description: Meet ZaMeR, the Flying Gym Leader, and explore the Flying Gym.
 
 # Flying - ZaMeR
 
-![ZaMeR Art](zamer-leader.png){width=200; align=left}
+![ZaMeR Art](zamer-leader.png){width=250; align=left}
 
 !!! quote "Flying Gym Leader message"
     Soaring high above the clouds in the magnificent steampunk airship, The Skyward Dawn, I am both a brilliant engineer and a master of Flying-type Pokémon. With gears turning and steam hissing through the pipes of my airborne arena, my team and I are ready to take to the sky, adapting mid-battle with two different Mega Evolutions, so you better bring a backup strategy! 
