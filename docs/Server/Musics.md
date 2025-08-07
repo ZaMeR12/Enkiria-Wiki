@@ -26,51 +26,49 @@ description: Explore the music tracks available on the Enkiria server.
 
 ## Poké Lab
 
-### Entrance
-
-!!! quote "Magical Technology Sci-Fi Science Futuristic Game Music"
+!!! quote "My Compagny"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.pixabay.com/audio/2025/02/12/audio_756a6c584f.mp3)
+    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403154794226651166/Aylex_-_My_Company_freetouse.com.mp3?ex=6896853c&is=689533bc&hm=51e6e936dd81f0cb26e84c57078291e3625675486f82e67e1a4e1329abf393e3&)
     </div>
 
-    **Credits**: Denis-Pavlov
+    **Credits**: 
+    
+    Music track: My Company by Aylex
 
-    **Source**: [Pixabay](https://pixabay.com/fr/music/surnaturel-magical-technology-sci-fi-science-futuristic-game-music-300607/)
+    Source: https://freetouse.com/music
 
+    No Copyright Vlog Music for Video 
 
-### Experiment zone
-
-!!! quote "Technology Game App Marimba Science Informational Music"
+!!! quote "A Better Future"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.pixabay.com/audio/2025/01/19/audio_da26c1265b.mp3)
+    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403156323947778128/Bluewave_-_A_Better_Future_freetouse.com.mp3?ex=689686a9&is=68953529&hm=130c2f6c92a124f4bc6080c17d992b927708aced20f06384f7a1287b3b05776b&)
     </div>
 
-    **Credits**: Denis-Pavlov
+    **Credits**: 
+    
+    Music track: A Better Future by Bluewave
 
-    **Source**: [Pixabay](https://pixabay.com/fr/music/beats-technology-game-app-marimba-science-informational-music-289844/)
+    Source: https://freetouse.com/music
 
+    Royalty Free Music (Free Download)
 
 ## Flying Gym
 
 ### Gym leader ZaMeR theme
 
-!!! quote "Ripley: The Inventor's Assistant (From JRWI: Wonderlust - Steampunk Orchestral Music)"
+!!! quote "[Cinematic Orchestra] Classical Inspiring Music | Winery by Aylex"
     <div markdown style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fesY2-q-NwU?si=g3eJIc2niUQ_XIaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MNhIXXETu30?si=8VX-6vx29T6AXrkr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    **Credits**: "Music by Luis Humanoide: Link to the music or channel".
-    "Music used: In the House of the Inventor by Luis Humanoide. (link to the music)"
+    **Credits**: Alex Productions - No Copyright Music
 
-### Gym theme
-
-!!! quote "Clockwork Lands: Chronicles Aboard an Airship - Steampunk Orchestral Music"
+!!! quote "Heroic Cinematic No Copyright Royalty Free Trailer Background Music | Glorious by Aylex"
     <div markdown style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jQWctS7MKW0?si=5WPNV5fxTjQ-Og46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKawlbfipw?si=uYEDZ-XhWvaTi9hH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    **Credits**: "Music by Luis Humanoide: Link to the music or channel".
-    "Music used: In the House of the Inventor by Luis Humanoide. (link to the music)"
+    **Credits**: Alex Productions - No Copyright Music
 
 ## Poison Gym
 
