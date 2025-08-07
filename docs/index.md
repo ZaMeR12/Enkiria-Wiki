@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <div markdown class="outer">
 <figure markdown class="img1 embed news">
-  ![Spawn](spawn.png){.radiusImg15}
+  ![Spawn](spawn.png){.radiusImg15 width=1120}
   <figcaption>Spawn</figcaption>
 </figure>
 </div>
