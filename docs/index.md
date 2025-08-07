@@ -31,45 +31,67 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
 
 
 
+
+
+
 <div id="video-playlist-container" markdown style="text-align:center;">
 ## Trailers
-  <video
-    id="playlistVideo"
-    controls
-    allowfullscreen
-    muted
-    autoplay
+<!-- Remplacement du lecteur vidéo par un iframe YouTube -->
+  <iframe
+    id="playlistIframe"
+    width="1120"
+    height="630"
     class="radiusImg5"
-    width="1500"
-    height="562"
     style="max-width:100%;"
-  >
-    Your browser doesn't support media player.
-  </video>
+    src=""
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+  ></iframe>
 </div>
 <script>
 const playlist = [
-  "assets/video/forms1-trailer.mp4",
-  "assets/video/rick-roll.mp4"
+  "https://www.youtube.com/embed/M0yKRFDd3WA?enablejsapi=1&autoplay=1&mute=1",
+  "https://www.youtube.com/embed/fC7oUOUEEi4?enablejsapi=1&autoplay=1&mute=1"
 ];
 let current = 0;
-const video = document.getElementById('playlistVideo');
+let player;
 
 // Fonction pour charger et jouer la vidéo courante
 function playCurrent() {
-  video.src = playlist[current];
-  video.load();
-  video.play();
+  // Change l'URL de l'iframe pour la vidéo courante
+  document.getElementById('playlistIframe').src = playlist[current];
+}
+
+// Fonction appelée par l'API YouTube quand le player est prêt
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('playlistIframe', {
+    events: {
+      'onStateChange': onPlayerStateChange
+    }
+  });
 }
 
 // Quand la vidéo se termine, passer à la suivante
-video.addEventListener('ended', function() {
-  current = (current + 1) % playlist.length;
-  playCurrent();
-});
+function onPlayerStateChange(event) {
+  if (event.data === YT.PlayerState.ENDED) {
+    current = (current + 1) % playlist.length;
+    player.loadVideoByUrl(playlist[current]);
+  }
+}
+
+// Charger l'API YouTube Iframe
+(function() {
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+})();
 
 // Démarrer la playlist au chargement de la page
-document.addEventListener('DOMContentLoaded', playCurrent);
+document.addEventListener('DOMContentLoaded', function() {
+  playCurrent();
+});
 </script>
 
 </br>
