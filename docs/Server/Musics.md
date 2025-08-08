@@ -187,14 +187,14 @@ description: Explore the music tracks available on the Enkiria server.
 
 ### Ambiance
 
-!!! quote "Epic Spectrum"
+!!! quote "Ascend"
     <div markdown style="text-align: center;">
     ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403484734364975176/Epic_Spectrum_-_Ascend_freetouse.com.mp3?ex=6897b884&is=68966704&hm=d1258f6978a72740e5e27832bd8d8df211abd71b26a69de93a3483244256c431&)
     </div>
 
     **Credits**:
 
-    Music track: Epic Spectrum by Ascend
+    Music track: Ascend by Epic Spectrum
 
     Source: https://freetouse.com/music
 
@@ -213,7 +213,7 @@ description: Explore the music tracks available on the Enkiria server.
 
     **Credits**: Anno Domini Beats by Youtube Audio Library
 
-### Mafia Boss
+### Eclipse Boss
 
 !!! quote "Morpheus"
     <div markdown style="text-align: center;">
