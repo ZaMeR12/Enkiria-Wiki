@@ -151,3 +151,92 @@ description: Explore the music tracks available on the Enkiria server.
     </div>
 
     **Credits**: Saidbyssed by Youtube Audio Library
+
+
+## Fighting Gym
+
+### Gym Leader
+
+!!! quote "Fighter"
+    <div markdown style="text-align: center;">
+    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403492530368282677/Aylex_-_Fighter_freetouse.com.mp3?ex=6897bfc6&is=68966e46&hm=19a3a5d9a2412aa8c73b985460e7985458d246d577afcf6eab6ca6a4a42ae2ec&)
+    </div>
+
+    **Credits**:
+
+    Music track: Fighter by Aylex
+
+    Source: https://freetouse.com/music
+
+    Royalty Free Music for Video (Safe)
+
+### Ambiance
+
+
+!!! quote "Test Your Fight"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WHKoXHulxLA?si=OSJTovsCb8JZ--cK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: Rod Kim by Youtube Audio Library
+
+## Electric gym
+
+### Gym leader
+
+
+### Ambiance
+
+!!! quote "Epic Spectrum"
+    <div markdown style="text-align: center;">
+    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403484734364975176/Epic_Spectrum_-_Ascend_freetouse.com.mp3?ex=6897b884&is=68966704&hm=d1258f6978a72740e5e27832bd8d8df211abd71b26a69de93a3483244256c431&)
+    </div>
+
+    **Credits**:
+
+    Music track: Epic Spectrum by Ascend
+
+    Source: https://freetouse.com/music
+
+    Royalty Free Music for Video (Safe)
+
+
+
+## Team Eclipse
+
+### Grunts
+
+!!! quote "Arms Dealer"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rgUmGkUUcUo?si=RVsmfq1hsnS1sm3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: Anno Domini Beats by Youtube Audio Library
+
+### Mafia Boss
+
+!!! quote "Morpheus"
+    <div markdown style="text-align: center;">
+    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403489127537836092/Pratzapp_-_Morpheus_freetouse.com.mp3?ex=6897bc9b&is=68966b1b&hm=ad136b755160dbe7f7be08be7fa26ee9314946d1ac957db62481daa66d89b77a&)
+    </div>
+
+    **Credits**: 
+
+    Music track: Morpheus by Pratzapp
+
+    Source: https://freetouse.com/music
+
+    Free To Use Music for Video
+
+## League
+
+### Elite 4
+
+### Champion
+
+!!! quote "Final Boss Battle"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QTrLlH1iojE?si=PTqh1H-BOI3CvpU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: Rod Kim by Youtube Audio Library
