@@ -10,19 +10,19 @@ description: Explore the music tracks available on the Enkiria server.
 
 ## Spawn
 
-!!! quote "Acoustic Camping Folk Travel by Alex-Productions (No Copyright Music) | Free Music | New Lands"
+!!! quote "Dusty Road Music"
     <div markdown style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5ntpiO52ZoM?si=14Mn9HOH_LFazTfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qud8OXdjiak?si=_ONVkOZEz8ikXAa-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    **Credits**: Alex Productions - No Copyright Music
+    **Credits**: Chris Haugen provided by Youtube Audio Library
 
-!!! quote "Hopeful Camping Folk Travel Music by Alex-Productions ( No Copyright Music ) | Free Music"
+!!! quote "From Here on In"
     <div markdown style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/aUHdSwhiNVU?si=U_2GDzDwwJx9pbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-M2lgCtxkiE?si=mJ1nIeaAD0VibHxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    **Credits**: Alex Productions - No Copyright Music
+    **Credits**: Everet Almond provided by Youtube Audio Library
 
 ## Poké Lab
 
@@ -54,32 +54,41 @@ description: Explore the music tracks available on the Enkiria server.
 
 ## Flying Gym
 
-### Gym leader ZaMeR theme
+### Gym leader
 
-!!! quote "[Cinematic Orchestra] Classical Inspiring Music | Winery by Aylex"
+!!! quote "Stats"
     <div markdown style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MNhIXXETu30?si=8VX-6vx29T6AXrkr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RJZUa4gxF94?si=sRQTkg2UKWkm0aUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    **Credits**: Alex Productions - No Copyright Music
+    **Credits**: The Grey Room / Density & Time provided by Youtube Audio Library
 
-!!! quote "Heroic Cinematic No Copyright Royalty Free Trailer Background Music | Glorious by Aylex"
+### Ambiance
+
+!!! quote "The Road To Mordor"
     <div markdown style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnKawlbfipw?si=uYEDZ-XhWvaTi9hH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/C7hFA_Ta1Ho?si=AEWdHQCAHCGbHBZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    **Credits**: Alex Productions - No Copyright Music
+    **Credits**: Ezra Lipp provided by Youtube Audio Library
 
 ## Poison Gym
 
-### Gym theme
+### Gym leader
 
-!!! quote "Shamisen × Battle Rock Where Tradition Meets the Energy of Battle! ⚔️🎸🌸"
+!!! quote "Duty Calls"
     <div markdown style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4gEne3eRiV4?si=jrCNjkOIBF-qzO2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/07JX7U3Jxr8?si=Ij5ZYe8hluiWEqNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-    **Credits**: Samurai Girl
+    **Credits**: Rod Kim provided by Youtube Audio Library
 
+### Ambiance
 
+!!! quote "Jomon Grove"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ox56wbipmsw?si=gG1Jz1wFMW6u_f6P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: The Mini Vandals by Youtube Audio Library
 
