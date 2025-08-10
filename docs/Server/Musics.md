@@ -3,12 +3,14 @@ title: Server Musics
 description: Explore the music tracks available on the Enkiria server.
 ---
 
-# Server Musics
+# Musics
 
 !!! info 
     All musics are royalty free or no copyright and will have credits of authors.
 
 ## Spawn
+
+### Ambiance 
 
 !!! quote "Dusty Road Music"
     <div markdown style="text-align: center;">
@@ -25,6 +27,23 @@ description: Explore the music tracks available on the Enkiria server.
     **Credits**: Everet Almond provided by Youtube Audio Library
 
 ## Poké Lab
+
+### Professor
+
+!!! quote "Moving On"
+    <div markdown style="text-align: center;">
+    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1404226276566237324/Limujii_-_Moving_On_freetouse.com.mp3?ex=689a6b21&is=689919a1&hm=7079dc67def5f7317e8afe448297279e06c93e9f073066e8659e3e860b67a4db&)
+    </div>
+
+    **Credits**: 
+
+    Music track: Moving On by Limujii
+
+    Source: https://freetouse.com/music
+
+    No Copyright Vlog Music for Video
+
+### Ambiance
 
 !!! quote "My Compagny"
     <div markdown style="text-align: center;">
@@ -119,7 +138,7 @@ description: Explore the music tracks available on the Enkiria server.
     Background Music for Videos (Free)
 
 
-## Dark gym
+## Dark Gym
 
 ### Gym Leader
 
@@ -180,10 +199,17 @@ description: Explore the music tracks available on the Enkiria server.
 
     **Credits**: Rod Kim by Youtube Audio Library
 
-## Electric gym
+## Electric Gym
 
 ### Gym leader
 
+
+!!! quote "Tropical Thunder"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Yv3QWB55GSo?si=QljTG2MoYNyn8J14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: RKVC by Youtube Audio Library
 
 ### Ambiance
 
@@ -200,6 +226,71 @@ description: Explore the music tracks available on the Enkiria server.
 
     Royalty Free Music for Video (Safe)
 
+
+## Water Gym
+
+### Gym Leader
+
+!!! quote "Sagas"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ovw9MSwRYJM?si=IMWagYCUTJZSoOBn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: The Grey Rooms / Density & Time by Youtube Audio Library
+
+### Ambiance
+
+!!! quote "Eternity"
+    <div markdown style="text-align: center;">
+    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1404217240651567115/Pufino_-_Eternity_freetouse.com.mp3?ex=689a62b7&is=68991137&hm=e7a709a2b8be0a54e7082dce2e54af4724ccd7ccad4eec5c52e34ea1c914f4b9&)
+    </div>
+
+    **Credits**:
+
+    Music track: Eternity by Pufino
+
+    Source: https://freetouse.com/music
+
+    Royalty Free Music for Video (Safe)
+
+!!! quote "inner_outer"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UdOUblqW11s?si=d_66ZFqd5nl-nel6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: Lish Grooves by Youtube Audio Library
+
+## Steel Gym
+
+### Gym Leader
+
+!!! quote "Metal Is Trash"
+    <div markdown style="text-align: center;">
+    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1404221940293570652/Pufino_-_Metal_Is_Trash_freetouse.com.mp3?ex=689a6717&is=68991597&hm=c236b1c73fa1812ac7ffa624894b721676b63b3147dc214d76e0a386e24ecada&)
+    </div>
+
+    **Credits**:
+
+    Music track: Metal Is Trash by Pufino
+
+    Source: https://freetouse.com/music
+
+    Royalty Free Music for Video (Safe)
+
+### Ambiance
+
+!!! quote "Wall Of Sound"
+    <div markdown style="text-align: center;">
+    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1404223617319043193/Dagored_-_Wall_Of_Sound_freetouse.com.mp3?ex=689a68a7&is=68991727&hm=7809fe3b7d0c706fec6678e8d3b754ad5ed884d65f221cc942629213f0bf96bc&)
+    </div>
+
+    **Credits**:
+
+    Music track: Wall Of Sound by Dagored
+
+    Source: https://freetouse.com/music
+
+    Royalty Free Music for Video (Safe)
 
 
 ## Team Eclipse
@@ -230,7 +321,15 @@ description: Explore the music tracks available on the Enkiria server.
 
 ## League
 
-### Elite 4
+### Elite 4 
+
+!!! quote "Civic"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vxgJJZXIqxU?si=SUuEIzaH6mdAJkV_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: The Grey Rooms / Density & Time by Youtube Audio Library
+
 
 ### Champion
 
@@ -240,3 +339,5 @@ description: Explore the music tracks available on the Enkiria server.
     </div>
 
     **Credits**: Rod Kim by Youtube Audio Library
+
+### Ambiance
