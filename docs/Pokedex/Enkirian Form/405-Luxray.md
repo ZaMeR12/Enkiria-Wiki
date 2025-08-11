@@ -12,7 +12,7 @@ description: Learn about the Enkirian Form of Luxray.
 
 <div class="grid" markdown>
 Normal palette
-![Luxray normal](luxray.png){ width=150;}
+![Luxray normal](luxray.png){ width=225;}
 { .card }
 
 Shiny palette

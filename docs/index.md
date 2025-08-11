@@ -36,6 +36,7 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
 
 <div id="video-playlist-container" markdown style="text-align:center;">
 ## Trailers
+
 <!-- Remplacement du lecteur vidéo par un iframe YouTube -->
   <iframe
     id="playlistIframe"
@@ -49,6 +50,10 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
     allowfullscreen
   ></iframe>
 </div>
+
+!!! bug "Preview"
+    Some trailers were made before the opening of the server. Some visuals can be outdated or inaccurate.
+
 <script>
 const playlist = [
   "https://www.youtube.com/embed/M0yKRFDd3WA?enablejsapi=1&autoplay=1&mute=1",
