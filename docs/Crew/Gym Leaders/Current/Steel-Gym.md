@@ -9,8 +9,11 @@ description: Meet Tarou, the Steel Gym Leader, and explore the Steel Gym.
 ![Tarou Art](tarou-leader.png){width=175; align=left}
 
 !!! quote "Steel Gym Leader message"
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing. The straight than but dreams the yet this is surely. It our with is a all a entrance rustling is. Before the horror such door the nameless leave from.
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
+    Name's Tarou, and I run both this train station and the Steel-type Gym built right into it. Every day, I keep the engines running, the tracks clear, and my team sharper than a fresh-forged blade. Around here, timing, precision, and grit matter — and that goes for battling too.
+
+    If you’ve made it this far, you’ve got some steam in you. But steel doesn’t bend easy… and neither do I.
+
+    All aboard — let’s see if you’ve got what it takes to stay on track. 
 
 </br>
 
