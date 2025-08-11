@@ -322,14 +322,7 @@ description: Explore the music tracks available on the Enkiria server.
 ## League
 
 ### Elite 4 
-
-!!! quote "Civic"
-    <div markdown style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/vxgJJZXIqxU?si=SUuEIzaH6mdAJkV_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
-
-    **Credits**: The Grey Rooms / Density & Time by Youtube Audio Library
-
+    
 
 ### Champion
 
