@@ -8,8 +8,11 @@ description: Meet Masaki, the Fighting Gym Leader, and explore the Fighting Gym.
 ![Masaki Art](masaki-leader.gif){width=200; align=left}
 
 !!! quote "Fighting Gym Leader message"
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing. The straight than but dreams the yet this is surely. It our with is a all a entrance rustling is. Before the horror such door the nameless leave from.
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
+    Hey there. I’m Masaki — your personal trainer here at the Gym Gym, and your next challenge if you're aiming for the Fighting Gem. 
+
+    I spend my days helping people push past their limits, and my nights honing my Pokémon team to do the same. Strength isn’t just muscle — it’s discipline, drive, and knowing how to take a hit and keep moving forward. No shortcuts here — just sweat, skill, and spirit. 
+
+    Let’s see if you’ve got the guts to claim victory against a full frontal assault from my team!
 
 
 ## Gym
