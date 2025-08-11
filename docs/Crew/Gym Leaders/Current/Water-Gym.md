@@ -8,8 +8,9 @@ description: Meet Cora, the Water Gym Leader, and explore the Water Gym.
 ![Cora Art](cora-leader.png){width=175; align=left}
 
 !!! quote "Water Gym Leader message"
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing. The straight than but dreams the yet this is surely. It our with is a all a entrance rustling is. Before the horror such door the nameless leave from.
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
+    Welcome to the Research Institute! I'm Cora — marine biologist by day and Water-type Gym Leader always. 
+
+    My research dives deep into ocean ecosystems, from coral reef restoration to the migration patterns of aquatic Pokémon. I've even discovered new symbiotic relationships between species! Every battle here is inspired by the rhythms of the sea — fluid, unpredictable, and full of life. If you want the Water Gem, you'll have to prove yourself.
 
 ## Gym
 

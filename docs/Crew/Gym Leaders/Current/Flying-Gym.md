@@ -23,6 +23,8 @@ description: Meet ZaMeR, the Flying Gym Leader, and explore the Flying Gym.
 </figure>
 </div>
 
+!!! warning
+    This gym is not aesthetically made for Gigantamax Pokémon. You can still use them, but expect some visual glitches in battles. It's recommended to use non-Gigantamax forms for a smoother experience.
 
 ## Pokemon team
 

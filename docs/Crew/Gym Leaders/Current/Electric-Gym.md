@@ -6,8 +6,9 @@ description: Meet Raiko, the Electric Gym Leader, and explore the Electric Gym.
 # Electric - Raiko
 
 !!! quote "Electric Gym Leader message"
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing. The straight than but dreams the yet this is surely. It our with is a all a entrance rustling is. Before the horror such door the nameless leave from.
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
+    I am Raiko, guardian of Mount Eden’s electric arena. This courtyard is perfect for quiet reflection among the clouds, listening to the hum of the world, drawing inspiration from the ancient rhythms of thunder and time.
+
+    But when a challenger approaches my doorstep ... the storm awakens. So if you’ve come for a badge, you’d better be ready to face the thunder— and the solo that comes with it.
 
 </br>
 

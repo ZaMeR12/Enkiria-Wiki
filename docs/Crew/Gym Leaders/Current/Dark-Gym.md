@@ -8,8 +8,11 @@ description: Meet Delilah, the Dark Gym Leader, and explore the Dark Gym.
 ![Doran Art](delilah-leader.png){width=175; align=left}
 
 !!! quote "Dark Gym Leader message"
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing. The straight than but dreams the yet this is surely. It our with is a all a entrance rustling is. Before the horror such door the nameless leave from.
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
+    They call it the Cursed Island— a place shrouded in fog, whispers, and fear. Most trainers avoid it, claiming the shadows here move on their own. Maybe they do. But for me, this island is home. I’m Delilah, the Dark-type Gym Leader, and this is where the forgotten thrive. 
+
+    My partner Luxray and the rest are more than just Pokémon. They're my family. My pack. We walk the line between fear and loyalty, instinct and strategy.
+
+    If you've made it this far, then maybe you have some bite in you. But don't mistake the silence for mercy. On this island, I decide who makes it out.
 
 </br>
 
