@@ -5,6 +5,8 @@ description: Meet Raiko, the Electric Gym Leader, and explore the Electric Gym.
 
 # Electric - Raiko
 
+![Raiko Art](raiko-leader.png){width=175; align=left}
+
 !!! quote "Electric Gym Leader message"
     I am Raiko, guardian of Mount Eden’s electric arena. This courtyard is perfect for quiet reflection among the clouds, listening to the hum of the world, drawing inspiration from the ancient rhythms of thunder and time.
 
