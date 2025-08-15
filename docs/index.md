@@ -7,7 +7,6 @@ hide:
   - title
 ---
 
-
 !!! tip
     This wiki is best enjoyed on PC, but is still functional on mobile.
     
@@ -30,74 +29,58 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
 </br>
 
 
-
-
-
-
-<div id="video-playlist-container" markdown style="text-align:center;">
+<div id="video-playlist-container" style="text-align:center;" markdown>
 ## Trailers
 
-<!-- Remplacement du lecteur vidéo par un iframe YouTube -->
-  <iframe
-    id="playlistIframe"
-    width="1120"
-    height="630"
-    class="radiusImg5"
+<iframe id="playlistIframe" width="1120" height="630" class="radiusImg5"
     style="max-width:100%;"
-    src=""
+    src="https://www.youtube.com/embed/videoseries?enablejsapi=1&mute=1&si=nC4Cp4oaMWr1FAAG&list=PLwHbMn91xq3V-uFNL1JNSEAOAGcU9v4gt&autoplay=1&loop=1&playlist=PLwHbMn91xq3V-uFNL1JNSEAOAGcU9v4gt&controls=0"
+    title="YouTube video player"
     frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
-  ></iframe>
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+</iframe>
+<button id="muteBtn" class="mute-btn" onclick="toggleMute()">🔇 Unmute</button>
 </div>
+
+<style>
+.mute-btn {
+  margin-top:10px;
+  font-size:1.2rem;
+  padding: 0.5em 1.5em;
+  border: 2px solid #8a2be2;
+  border-radius: 8px;
+  background: linear-gradient(90deg,#e0d6ff 0%,#c7b6ff 100%);
+  color: #4b0082;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 8px rgba(138,43,226,0.08);
+}
+.mute-btn:hover {
+  background: #d1c4e9;
+  color: #2e0854;
+}
+</style>
+<script>
+  let muted = true; // playlist démarrera en mute
+  toggleMute = () => {
+    const muteBtn = document.getElementById('muteBtn');
+    const iframe = document.getElementById('playlistIframe');
+    if (iframe) {
+      iframe.contentWindow.postMessage(JSON.stringify({
+        event: 'command',
+        func: muted ? 'unMute' : 'mute',
+        args: []
+      }), '*');
+      muted = !muted;
+      muteBtn.textContent = muted ? '🔇 Unmute' : '🔊 Mute';
+    }
+  };
+</script>
 
 !!! bug "Preview"
     Some trailers were made before the opening of the server. Some visuals can be outdated or inaccurate.
-
-<script>
-const playlist = [
-  "https://www.youtube.com/embed/M0yKRFDd3WA?enablejsapi=1&autoplay=1&mute=1",
-  "https://www.youtube.com/embed/fC7oUOUEEi4?enablejsapi=1&autoplay=1&mute=1"
-];
-let current = 0;
-let player;
-
-// Fonction pour charger et jouer la vidéo courante
-function playCurrent() {
-  // Change l'URL de l'iframe pour la vidéo courante
-  document.getElementById('playlistIframe').src = playlist[current];
-}
-
-// Fonction appelée par l'API YouTube quand le player est prêt
-function onYouTubeIframeAPIReady() {
-  player = new YT.Player('playlistIframe', {
-    events: {
-      'onStateChange': onPlayerStateChange
-    }
-  });
-}
-
-// Quand la vidéo se termine, passer à la suivante
-function onPlayerStateChange(event) {
-  if (event.data === YT.PlayerState.ENDED) {
-    current = (current + 1) % playlist.length;
-    player.loadVideoByUrl(playlist[current]);
-  }
-}
-
-// Charger l'API YouTube Iframe
-(function() {
-  var tag = document.createElement('script');
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-})();
-
-// Démarrer la playlist au chargement de la page
-document.addEventListener('DOMContentLoaded', function() {
-  playCurrent();
-});
-</script>
 
 </br>
 
