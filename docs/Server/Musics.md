@@ -32,7 +32,7 @@ description: Explore the music tracks available on the Enkiria server.
 
 !!! quote "Moving On"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1404226276566237324/Limujii_-_Moving_On_freetouse.com.mp3?ex=689a6b21&is=689919a1&hm=7079dc67def5f7317e8afe448297279e06c93e9f073066e8659e3e860b67a4db&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=1&token=70fb6ce24fa0500716d984b77013a608&download)
     </div>
 
     **Credits**: 
@@ -47,7 +47,7 @@ description: Explore the music tracks available on the Enkiria server.
 
 !!! quote "My Compagny"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403154794226651166/Aylex_-_My_Company_freetouse.com.mp3?ex=6896853c&is=689533bc&hm=51e6e936dd81f0cb26e84c57078291e3625675486f82e67e1a4e1329abf393e3&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=3&token=e618133da8a3bf14dfedd6cb63f41505&download )
     </div>
 
     **Credits**: 
@@ -60,7 +60,7 @@ description: Explore the music tracks available on the Enkiria server.
 
 !!! quote "A Better Future"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403156323947778128/Bluewave_-_A_Better_Future_freetouse.com.mp3?ex=689686a9&is=68953529&hm=130c2f6c92a124f4bc6080c17d992b927708aced20f06384f7a1287b3b05776b&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=2&token=708bef62065bee6a976d9a6419020f6a&download)
     </div>
 
     **Credits**: 
@@ -126,7 +126,7 @@ description: Explore the music tracks available on the Enkiria server.
 
 !!! quote "Coming of Age"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403490602104000552/Hazelwood_-_Coming_Of_Age_freetouse.com.mp3?ex=6897bdfb&is=68966c7b&hm=295694fd30876acf9d1920d233183dafc1203d37654b4c0d2a923c8095593dbe&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=11&token=5b99127220278927b021c4afb02925d7&download)
     </div>
 
     **Credits**:
@@ -135,7 +135,7 @@ description: Explore the music tracks available on the Enkiria server.
 
     Source: https://freetouse.com/music
 
-    Background Music for Videos (Free)
+    Vlog Music for Videos (Free Download)
 
 
 ## Dark Gym
@@ -178,7 +178,7 @@ description: Explore the music tracks available on the Enkiria server.
 
 !!! quote "Fighter"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403492530368282677/Aylex_-_Fighter_freetouse.com.mp3?ex=6897bfc6&is=68966e46&hm=19a3a5d9a2412aa8c73b985460e7985458d246d577afcf6eab6ca6a4a42ae2ec&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=14&token=4a9951cc11992ee2a2a556269724eac5&download)
     </div>
 
     **Credits**:
@@ -187,7 +187,7 @@ description: Explore the music tracks available on the Enkiria server.
 
     Source: https://freetouse.com/music
 
-    Royalty Free Music for Video (Safe)
+    Vlog Music for Videos (Free Download)
 
 ### Ambiance
 
@@ -215,7 +215,7 @@ description: Explore the music tracks available on the Enkiria server.
 
 !!! quote "Ascend"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403484734364975176/Epic_Spectrum_-_Ascend_freetouse.com.mp3?ex=6897b884&is=68966704&hm=d1258f6978a72740e5e27832bd8d8df211abd71b26a69de93a3483244256c431&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=6&token=75b6cb9c31ec00abb5d4f0d9deeeee87&download)
     </div>
 
     **Credits**:
@@ -224,7 +224,7 @@ description: Explore the music tracks available on the Enkiria server.
 
     Source: https://freetouse.com/music
 
-    Royalty Free Music for Video (Safe)
+    Background Music for Video (Free)
 
 
 ## Water Gym
@@ -242,7 +242,7 @@ description: Explore the music tracks available on the Enkiria server.
 
 !!! quote "Eternity"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1404217240651567115/Pufino_-_Eternity_freetouse.com.mp3?ex=689a62b7&is=68991137&hm=e7a709a2b8be0a54e7082dce2e54af4724ccd7ccad4eec5c52e34ea1c914f4b9&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=23&token=6ffa7a432b887b62280d9598fa4279d2&download)
     </div>
 
     **Credits**:
@@ -251,7 +251,7 @@ description: Explore the music tracks available on the Enkiria server.
 
     Source: https://freetouse.com/music
 
-    Royalty Free Music for Video (Safe)
+    Music for Video (Free Download)
 
 !!! quote "inner_outer"
     <div markdown style="text-align: center;">
@@ -266,7 +266,7 @@ description: Explore the music tracks available on the Enkiria server.
 
 !!! quote "Metal Is Trash"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1404221940293570652/Pufino_-_Metal_Is_Trash_freetouse.com.mp3?ex=689a6717&is=68991597&hm=c236b1c73fa1812ac7ffa624894b721676b63b3147dc214d76e0a386e24ecada&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=25&token=3aed2ab783a9a179e4659f5238c5e792&download)
     </div>
 
     **Credits**:
@@ -275,13 +275,13 @@ description: Explore the music tracks available on the Enkiria server.
 
     Source: https://freetouse.com/music
 
-    Royalty Free Music for Video (Safe)
+    No Copyright Background Music
 
 ### Ambiance
 
 !!! quote "Wall Of Sound"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1404223617319043193/Dagored_-_Wall_Of_Sound_freetouse.com.mp3?ex=689a68a7&is=68991727&hm=7809fe3b7d0c706fec6678e8d3b754ad5ed884d65f221cc942629213f0bf96bc&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=26&token=924780cc61a30fc56d067e0681c6c60a&download)
     </div>
 
     **Credits**:
@@ -290,7 +290,7 @@ description: Explore the music tracks available on the Enkiria server.
 
     Source: https://freetouse.com/music
 
-    Royalty Free Music for Video (Safe)
+    No Copyright Music for Videos (Free)
 
 
 ## Team Eclipse
@@ -308,7 +308,7 @@ description: Explore the music tracks available on the Enkiria server.
 
 !!! quote "Morpheus"
     <div markdown style="text-align: center;">
-    ![type:audio](https://cdn.discordapp.com/attachments/1402831292407484426/1403489127537836092/Pratzapp_-_Morpheus_freetouse.com.mp3?ex=6897bc9b&is=68966b1b&hm=ad136b755160dbe7f7be08be7fa26ee9314946d1ac957db62481daa66d89b77a&)
+    ![type:audio](https://fileshare.zamer12.com/download.php?id=8&token=1575181b9fb16586a95efa0fdb9df413&download)
     </div>
 
     **Credits**: 
@@ -317,7 +317,7 @@ description: Explore the music tracks available on the Enkiria server.
 
     Source: https://freetouse.com/music
 
-    Free To Use Music for Video
+    Free Music No Copyright (Safe)
 
 ## League
 
