@@ -22,7 +22,7 @@ hide:
     The other is because a lack of way to fully custom evolutions of normal form as intended. 
 
 
-??? question "Does Enrian forms are made for competitive?"
+??? question "Do Enrian forms are made for competitive?"
     We tried to make the best to be used in competitive battles without making these to much OP.
     We hope you will use them in your competitive team happily.
 

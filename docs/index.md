@@ -28,6 +28,8 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
 
 </br>
 
+!!! bug "Preview"
+    Some trailers were made before the opening of the server. Some visuals can be outdated or inaccurate.
 
 <div id="video-playlist-container" style="text-align:center;" markdown>
 ## Trailers
@@ -79,8 +81,9 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
   };
 </script>
 
-!!! bug "Preview"
-    Some trailers were made before the opening of the server. Some visuals can be outdated or inaccurate.
+
+
+<span style="font-size:1.5rem">:material-server: enkiriapixelmon.mine.fun</span>
 
 </br>
 
@@ -99,4 +102,3 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
 
 </br>
 
-<span style="font-size:1.5rem">:material-server: enkiriapixelmon.mine.fun</span>
