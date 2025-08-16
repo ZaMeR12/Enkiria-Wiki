@@ -8,8 +8,11 @@ description: Meet Professor Ryuu, the Enkiria region's Pokémon Professor, and e
 ![Ryuu art](ryuu.png){width=450; align=left}
 
 !!! quote "Professor Ryuu message"
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing. The straight than but dreams the yet this is surely. It our with is a all a entrance rustling is. Before the horror such door the nameless leave from.
-    Then of gently still and the lenore lies entrance violet sent my on so lordly and some beak the. My fancy from that angels. Bore heard evil many longer. Till nothing thereat seeing.
+    Hello there! I'm Dr.Ryuu— Pokémon Professor and proud red panda! 
+
+    I specialize in the bond between Pokémon and their environments, studying how habitats shape behavior and evolution. Don’t let the fluffy tail fool you— I’ve hiked volcanoes, swum with Milotic, and even shared tea with a wild Alakazam. Whether you're just starting your journey or researching your next discovery, I’m here to guide you. 
+
+    The world of Pokémon is vast— let’s explore it together!
 
 </br>
 
