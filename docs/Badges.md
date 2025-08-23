@@ -81,4 +81,13 @@ Water Gemstone
 ![Gym Leader Water](cora-leader.png){ width=100 }
 { .card }
 
+Ground Gemstone
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Ground Gemstone](ground-badge.png){ width=50 }
+</br>
+[Gym leader - Stillio](Ground-Gym.md){:target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Gym Leader Ground](stillio-leader.png){ width=100 }
+{ .card }
+
 </div>

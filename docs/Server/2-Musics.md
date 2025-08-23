@@ -171,6 +171,23 @@ description: Explore the music tracks available on the Enkiria server.
 
     **Credits**: Saidbyssed by Youtube Audio Library
 
+## Ground Gym
+
+### Gym Leader
+
+!!! quote "Desert Brawl"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q-VL4MduPGg?si=Q25TpL7JpIS1H21h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: Vans in Japan provided by Youtube Audio Library
+### Ambiance 
+!!! quote "Mayan Ritual"
+    <div markdown style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EsuQ4ZgjVzQ?si=ZKtSYKuIZDR0xopy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    **Credits**: Jimena Contreras provided by Youtube Audio Library
 
 ## Fighting Gym
 

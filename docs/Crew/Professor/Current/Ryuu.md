@@ -5,7 +5,7 @@ description: Meet Professor Ryuu, the Enkiria region's Pokémon Professor, and e
 
 # Professor Ryuu
 
-![Ryuu art](ryuu.png){width=450; align=left}
+![Ryuu art](ryuu.png){width=300; align=left}
 
 !!! quote "Professor Ryuu message"
     Hello there! I'm Dr.Ryuu— Pokémon Professor and proud red panda! 
@@ -28,9 +28,9 @@ description: Meet Professor Ryuu, the Enkiria region's Pokémon Professor, and e
 !!! note 
     The starter kit is only available for new trainer that join the server for the first time. Multiples accounts are invalid for a startter kit.
 
-- Backpack
-- Pokeballs
-- Potions
+- Poke Bag
+- Pokeballs (32)
+- Potions (16)
 - Gym's Gemstones (badges) pouch
 
 
