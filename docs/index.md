@@ -83,7 +83,7 @@ _Forge your story. Uncover the truth. Welcome to Enkiria._
 
 
 
-<span style="font-size:1.5rem">:material-server: enkiriapixelmon.mine.fun</span>
+<span style="font-size:1.5rem">:material-server: enkiria.mine.fun</span>
 
 </br>
 
