@@ -29,16 +29,6 @@ jobs:
         run: pip install --upgrade pip
       - name: Install dependencies
         run: |
-          pip install \
-            mkdocs-material \
-            mkdocs \
-            mkdocs-material-extensions \
-            mkdocs-charts-plugin \
-            mkdocs-glightbox \
-            mkdocs-autolinks-plugin \
-            mkdocs-table-reader-plugin \
-            pymdown-extensions \
-            "mkdocs-material[imaging]" \
-            mkdocs-audio 
+          pip install -r ./requirements.txt -U
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
