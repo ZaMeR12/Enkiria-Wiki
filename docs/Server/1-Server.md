@@ -20,7 +20,7 @@ description: Learn how to connect to the Enkiria Pixelmon server.
  : [Curse Forge :simple-curseforge:](https://www.curseforge.com/download/app){: .md-button .md-button--primary target="_blank"}
 
 `Server link`
- : enkiriapixelmon.mine.fun :material-server:
+ : enkiria.mine.fun :material-server:
 
 
 ## Ressources
