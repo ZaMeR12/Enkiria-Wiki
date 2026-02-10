@@ -32,7 +32,7 @@ hide:
 ## Wiki
 
 ??? question "Why are the battle stats charts not shown correctly?"
-    Sometimes, the library used to show the charts has some difficulty loading. Usually you just need to refresh the page1
+    Sometimes, the library used to show the charts has some difficulty loading. Usually you just need to refresh the page!
 
 
 ## Other Problems

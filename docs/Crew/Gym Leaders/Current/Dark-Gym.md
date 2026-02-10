@@ -1,14 +1,14 @@
 ---
-title: Dark Gym - Delilah
-description: Meet Delilah, the Dark Gym Leader, and explore the Dark Gym.
+title: Dark Gym - ???
+description: Meet ???, the Dark Gym Leader, and explore the Dark Gym.
 ---
 
-# Dark - Delilah
+# Dark - ???
 
-![Doran Art](delilah-leader.png){width=175; align=left}
+![Leader3 Art](logo.png){width=175; align=left}
 
 !!! quote "Dark Gym Leader message"
-    They call it the Cursed Island— a place shrouded in fog, whispers, and fear. Most trainers avoid it, claiming the shadows here move on their own. Maybe they do. But for me, this island is home. I’m Delilah, the Dark-type Gym Leader, and this is where the forgotten thrive. 
+    They call it the Cursed Island— a place shrouded in fog, whispers, and fear. Most trainers avoid it, claiming the shadows here move on their own. Maybe they do. But for me, this island is home. I’m ???, the Dark-type Gym Leader, and this is where the forgotten thrive. 
 
     My partner Luxray and the rest are more than just Pokémon. They're my family. My pack. We walk the line between fear and loyalty, instinct and strategy.
 

@@ -31,6 +31,6 @@ description: Learn how to connect to the Enkiria Pixelmon server.
     [Discord :simple-discord:](https://discord.gg/RUjgy7wKXr){: .md-button .md-button--primary target="_blank"}
 
 !!! warning 
-    All custom mods, ressources packs and datapacks are not made to be used elsewhere that the Enkiria pixelmon server.
+    All custom mods, ressources packs and datapacks are not made to be used elsewhere than the Enkiria pixelmon server.
 
 

@@ -1,14 +1,14 @@
 ---
-title: Water Gym - Cora
-description: Meet Cora, the Water Gym Leader, and explore the Water Gym.
+title: Water Gym - ???
+description: Meet ???, the Water Gym Leader, and explore the Water Gym.
 ---
 
-# Water -  Cora
+# Water -  ???
 
-![Cora Art](cora-leader.png){width=175; align=left}
+![Leader Art](logo.png){width=175; align=left}
 
 !!! quote "Water Gym Leader message"
-    Welcome to the Research Institute! I'm Cora — marine biologist by day and Water-type Gym Leader always. 
+    Welcome to the Research Institute! I'm ??? — marine biologist by day and Water-type Gym Leader always. 
 
     My research dives deep into ocean ecosystems, from coral reef restoration to the migration patterns of aquatic Pokémon. I've even discovered new symbiotic relationships between species! Every battle here is inspired by the rhythms of the sea — fluid, unpredictable, and full of life. If you want the Water Gem, you'll have to prove yourself.
 
