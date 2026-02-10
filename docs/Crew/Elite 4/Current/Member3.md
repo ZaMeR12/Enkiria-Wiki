@@ -1,5 +1,5 @@
 ---
-title: Elite 4 member 3
+title: Elite 4 - GhostPK
 description: Elite 4 member 3 details and information.
 ---
 

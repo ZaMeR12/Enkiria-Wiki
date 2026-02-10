@@ -1,5 +1,5 @@
 ---
-title: Elite 4 member 4
+title: Elite 4 - Ryuu
 description: Elite 4 member 4 details and information.
 ---
 

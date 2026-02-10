@@ -1,5 +1,5 @@
 ---
-title: Elite 4 member 2
+title: Elite 4 - Willow
 description: Elite 4 member 2 details and information.
 ---
 
