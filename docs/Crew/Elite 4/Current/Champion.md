@@ -1,11 +1,11 @@
 ---
-title: Elite 4 Champion
-description: Elite 4 champion details and information.
+title: League Champion
+description: League Champion details and information.
 ---
 
 # Champion
 
-![Champion Art](https://images.weserv.nl/?url=https://placehold.co/400){width=250; align=left}
+![Champion Art](C:\Users\user\Desktop\VSCode\Enkiria-Wiki\docs\assets\Elite 4\Champion.png){width=250; align=left}
 
 !!! quote "Elite 4 champion message"
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse luctus lacus est, at molestie sapien finibus at. Sed hendrerit, arcu at semper fringilla, metus ipsum facilisis purus, vel ultricies sem libero sed elit. In ut felis hendrerit, hendrerit urna a, finibus nibh. Integer pretium erat dui. Praesent in urna id dolor rhoncus sollicitudin. Duis consequat vitae arcu ac dictum. Curabitur condimentum purus nec metus pretium venenatis a ut nisi. Vivamus et lectus rutrum, sollicitudin arcu et, pulvinar ipsum. Donec id dolor nec magna placerat varius eget eget nulla. Cras maximus elementum risus ut aliquam. Nunc viverra velit fringilla, tincidunt sapien id, dapibus ante.
