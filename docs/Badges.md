@@ -9,7 +9,7 @@ hide:
 # Badges - Gym's Gemstone
 
 !!! danger "Copyright Notice"
-    All badges and leaders images are the property of their respective creators. They are used here for informational purposes only. Please respect the original creators' rights and do not use these images without permission.
+    All badges and Crew images are the property of their respective creators. They are used here for informational purposes only. Please respect the original creators' rights and do not use these images without permission.
 
     If you want to use the badges sprites for your project, like a video game, you have to pay a license to the original creator. These images are not free to use.
     [Sprites package](https://ateliermagicae.itch.io/3200-minerals-gemstone-icons){:target="_blank"}
