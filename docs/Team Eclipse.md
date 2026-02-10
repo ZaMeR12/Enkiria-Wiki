@@ -12,13 +12,13 @@ hide:
 
 ## Goals
 
-Team Eclipse is a clandestine organization with the primary goal of harnessing the power of legendary Pokémon to reshape the world according to their vision. They believe that by controlling these powerful creatures, they can bring about a new era of peace and prosperity, albeit through questionable means.
+Team Eclipse is a clandestine organization with the primary goal of harnessing the power of Enkiria's special minerals to reshape the world according to their vision. Enkiria's minerals and crystals bring about a unique mix of energy to the region, permitting the use of Mega Evolution, Z-Moves, Dynamax and Gigantamax!
 
-## Expertize
+## Expertise
 
 Team Eclipse members are known for their expertise in various fields, including:
 
 - **Pokémon Training**: Skilled trainers capable of handling high-level Pokémon.
-- **Laboratory**: Scientists and researchers who study Pokémon behavior and genetics.
-- **Field Operations**: Operatives who carry out missions to capture and control legendary Pokémon.
+- **Research**: Scientists and specialists who study Pokémon behavior and environments, such as deep sea and caverns.
+- **Field Operations**: Operatives who carry out missions to capture and control Pokémon.
 

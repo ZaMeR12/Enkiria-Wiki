@@ -28,18 +28,18 @@ Dark Gemstone
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Dark Gemstone](dark-badge.png){ width=50 }
 </br>
-[Gym leader - Delilah](Dark-Gym.md){:target="_blank"}
+[Gym leader - ???](Dark-Gym.md){:target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Gym Leader Dark](delilah-leader.png){ width=100 }
+![Gym Leader Dark](logo.png){ width=100 }
 { .card }
 
 Electric Gemstone
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Electric Gemstone](electric-badge.png){ width=50 }
 </br>
-[Gym leader - Raiko](Electric-Gym.md){:target="_blank"}
+[Gym leader - ???](Electric-Gym.md){:target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Gym Leader Electric](raiko-leader.png){ width=100 }
+![Gym Leader Electric](logo.png){ width=100 }
 { .card }
 
 Fighting Gemstone
@@ -82,9 +82,9 @@ Water Gemstone
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Water Gemstone](water-badge.png){ width=50 }
 </br>
-[Gym leader - Cora](Water-Gym.md){:target="_blank"}
+[Gym leader - ???](Water-Gym.md){:target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Gym Leader Water](cora-leader.png){ width=100 }
+![Gym Leader Water](logo.png){ width=100 }
 { .card }
 
 Ground Gemstone
