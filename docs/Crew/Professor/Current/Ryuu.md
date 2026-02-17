@@ -26,12 +26,13 @@ description: Meet Professor Ryuu, the Enkiria region's Pokémon Professor, and e
 ## Starter kit
 
 !!! note 
-    The starter kit is only available for new trainer that join the server for the first time. Multiples accounts are invalid for a startter kit.
+    The starter kit is only available for new trainer that join the server for the first time.
 
 - Poke Bag
 - Pokeballs (32)
 - Potions (16)
 - Gym's Gemstones (badges) pouch
+- Old Running Shoes
 
 
 P.S.: He's our favourite smol red panda boy.
