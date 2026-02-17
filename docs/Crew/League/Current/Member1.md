@@ -12,6 +12,7 @@ description: Elite 4 member 1 details and information.
 
 </br>
 
+!!! example "Double Battle"
 
 ## Pokemon team
 

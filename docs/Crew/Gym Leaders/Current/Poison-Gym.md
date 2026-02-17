@@ -22,6 +22,8 @@ description: Meet Willow, the Poison Gym Leader, and explore the Poison Gym.
 </figure>
 </div>
 
+!!! example "Single Battle"
+
 ## Pokemon team
 
 |                                                                                                            Pokemon                                                                                                            |                                             Typing                                              |                                                                                                                            Held Item                                                                                                                            |  Special Rule  |

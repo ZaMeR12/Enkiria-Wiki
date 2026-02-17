@@ -21,6 +21,8 @@ description: Meet Stillio, the Ground Gym Leader, and explore the Ground Gym.
 </figure>
 </div>
 
+!!! example "Single Battle"
+
 ## Pokemon team
 
 |                                                                                              Pokemon                                                                                              |                                               Typing                                                |                                                                                                                 Held Item                                                                                                                 |  Special Rule  |

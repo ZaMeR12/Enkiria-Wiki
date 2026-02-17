@@ -12,6 +12,7 @@ description: Elite 4 GhostPK details and information.
 
 </br>
 
+!!! example "Single Battle"
 
 ## Pokemon team
 
