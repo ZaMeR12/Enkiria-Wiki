@@ -7,7 +7,7 @@ hide:
 
 # Team Eclipse
 
-![Team Eclipse Logo](https://images.weserv.nl/?url=https://placehold.co/400){width=200;}
+![Team Eclipse Logo](https://imgserv.zamer12.com/?url=https://placehold.co/400){width=200;}
 
 
 ## Goals

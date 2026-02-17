@@ -41,8 +41,8 @@ graph LR
   B --> C[Luxio];
   C --> D{Level 30};
   D --> E[Luxray];
-  C --> | Using a Dusk Stone </br> <img title="Dusk Stone" src="https://images.weserv.nl/?url=archives.bulbagarden.net/media/upload/e/e1/Bag_Dusk_Stone_LA_Sprite.png" width="100">| F{  };
-  F --> |Holding a Razor Fang </br> <img title="Razor Fang" src="https://images.weserv.nl/?url=archives.bulbagarden.net/media/upload/f/f1/Bag_Razor_Fang_LA_Sprite.png" width="100">| G[Enkirian Luxray];
+  C --> | Using a Dusk Stone </br> <img title="Dusk Stone" src="https://imgserv.zamer12.com/?url=archives.bulbagarden.net/media/upload/e/e1/Bag_Dusk_Stone_LA_Sprite.png" width="100">| F{  };
+  F --> |Holding a Razor Fang </br> <img title="Razor Fang" src="https://imgserv.zamer12.com/?url=archives.bulbagarden.net/media/upload/f/f1/Bag_Razor_Fang_LA_Sprite.png" width="100">| G[Enkirian Luxray];
 ```
 
 
