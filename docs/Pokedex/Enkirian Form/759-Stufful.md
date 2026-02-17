@@ -37,7 +37,7 @@ Ember Cub Pokémon
 ``` mermaid
 graph LR
   A[Enkirian Stufful] --> B{Level 27};
-  B -->|Level up with a </br><img title="Fire type" src="https://imgserv.zamer12.com/?url=archives.bulbagarden.net/media/upload/b/b1/FireIC_BDSP.png" width="90"></br> pokemon in your party| C[Enkirian Bewear];
+  B -->|Level up with a </br><img title="Fire type" src="https://wsrv.nl/?url=archives.bulbagarden.net/media/upload/b/b1/FireIC_BDSP.png" width="90"></br> pokemon in your party| C[Enkirian Bewear];
 ```
 
 ### Learning move
