@@ -31,7 +31,7 @@ description: Meet Professor Ryuu, the Enkiria region's Pokémon Professor, and e
 - Poke Bag
 - Pokeballs (32)
 - Potions (16)
-- Gym's Gemstones (badges) pouch
+- Gym Jewels Pouch, for our regional badges!
 - Old Running Shoes
 
 
