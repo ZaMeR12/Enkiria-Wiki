@@ -13,7 +13,7 @@ description: "Pikachu's Cosplay form, featuring unique battle stats and abilitie
 ## Cosplay Forms
 
 === "Belle"
-    ![Pikachu Belle](https://wsrv.nl/?url=archives.bulbagarden.net/media/upload/thumb/f/ff/0025Pikachu-Belle.png/1024px-0025Pikachu-Belle.png){ width=175 align=left}
+    ![Pikachu Belle](https://imgserv.zamer12.com/?url=archives.bulbagarden.net/media/upload/thumb/f/ff/0025Pikachu-Belle.png/1024px-0025Pikachu-Belle.png){ width=175 align=left}
 
     <h2>Types</h2>
     <div markdown="span">
@@ -29,7 +29,7 @@ description: "Pikachu's Cosplay form, featuring unique battle stats and abilitie
         |  0  |  [Ice Punch](https://pixelmonmod.com/wiki/Ice_Punch){:target="_blank"}  |                  :octicons-x-16:
 
 === "PhD"
-    ![Pikachu PhD](https://wsrv.nl/?url=archives.bulbagarden.net/media/upload/thumb/c/c1/0025Pikachu-PhD.png/1024px-0025Pikachu-PhD.png){ width=175 align=left}
+    ![Pikachu PhD](https://imgserv.zamer12.com/?url=archives.bulbagarden.net/media/upload/thumb/c/c1/0025Pikachu-PhD.png/1024px-0025Pikachu-PhD.png){ width=175 align=left}
 
     <h2>Types</h2>
     <div markdown="span">
@@ -45,7 +45,7 @@ description: "Pikachu's Cosplay form, featuring unique battle stats and abilitie
         |  0  |  [Magnet Bomb](https://pixelmonmod.com/wiki/Magnet_Bomb){:target="_blank"}  |                  :octicons-x-16:
 
 === "Pop Star"
-    ![Pikachu Pop Star](https://wsrv.nl/?url=archives.bulbagarden.net/media/upload/thumb/0/09/0025Pikachu-Pop_Star.png/1024px-0025Pikachu-Pop_Star.png){ width=175 align=left}
+    ![Pikachu Pop Star](https://imgserv.zamer12.com/?url=archives.bulbagarden.net/media/upload/thumb/0/09/0025Pikachu-Pop_Star.png/1024px-0025Pikachu-Pop_Star.png){ width=175 align=left}
 
     <h2>Types</h2>
     <div markdown="span">
@@ -54,7 +54,7 @@ description: "Pikachu's Cosplay form, featuring unique battle stats and abilitie
     </div>
 
 === "Rock Star"
-    ![Pikachu Rock Star](https://wsrv.nl/?url=archives.bulbagarden.net/media/upload/thumb/0/0a/0025Pikachu-Rock_Star.png/1024px-0025Pikachu-Rock_Star.png){ width=175 align=left}
+    ![Pikachu Rock Star](https://imgserv.zamer12.com/?url=archives.bulbagarden.net/media/upload/thumb/0/0a/0025Pikachu-Rock_Star.png/1024px-0025Pikachu-Rock_Star.png){ width=175 align=left}
 
     <h2>Types</h2>
     <div markdown="span">
@@ -70,7 +70,7 @@ description: "Pikachu's Cosplay form, featuring unique battle stats and abilitie
         |  0  |  [Fire Punch](https://pixelmonmod.com/wiki/Fire_Punch){:target="_blank"}  |                  :octicons-x-16:
 
 === "Libre"
-    ![Pikachu Libre](https://wsrv.nl/?url=archives.bulbagarden.net/media/upload/thumb/0/03/0025Pikachu-Libre.png/1024px-0025Pikachu-Libre.png){ width=175 align=left}
+    ![Pikachu Libre](https://imgserv.zamer12.com/?url=archives.bulbagarden.net/media/upload/thumb/0/03/0025Pikachu-Libre.png/1024px-0025Pikachu-Libre.png){ width=175 align=left}
 
     <h2>Types</h2>
     <div markdown="span">
