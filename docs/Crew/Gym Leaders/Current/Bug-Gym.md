@@ -5,7 +5,7 @@ description: Meet Doran, the Bug Gym Leader, and explore the Bug Gym.
 
 # Bug - Doran
 
-![Doran Art](doran-leader.png){width=175; align=left}
+![Doran Art](doran 2.jpg){width=200; align=left}
 
 !!! quote "Bug Gym Leader message"
     Welcome to the Enkiria Insectarium! I'm Doran — lepidopterist, Gym Leader, and your faithful tour guide! 
