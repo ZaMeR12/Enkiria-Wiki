@@ -12,11 +12,11 @@ description: Learn about the Enkirian Form of Bewear.
 
 <div class="grid" markdown>
 Normal palette
-![Bewear normal](bewear.png){ width=150; }
+![Bewear normal](ENK-bewear.png){ width=150; }
 { .card }
 
 Shiny palette
-![Bewear shiny](bewear-shiny.png){width=130;}
+![Bewear shiny](ENK-bewear-shiny.png){width=130;}
 { .card }
 
 </div>

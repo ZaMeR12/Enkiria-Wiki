@@ -12,11 +12,11 @@ description: Learn about the Enkirian Form of Stufful.
 
 <div class="grid" markdown>
 Normal palette
-![Stufful normal](stufful.png){ width=150;}
+![Stufful normal](ENK-stufful.png){ width=150;}
 { .card }
 
 Shiny palette
-![Stufful shiny](stufful-shiny.png){ width=150;} 
+![Stufful shiny](ENK-stufful-shiny.png){ width=150;} 
 { .card }
 
 </div>

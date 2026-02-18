@@ -12,11 +12,11 @@ description: Learn about the Enkirian Form of Togekiss.
 
 <div class="grid" markdown>
 Normal palette
-![Togekiss normal](togekiss.png){ width=150;}
+![Togekiss normal](ENK-togekiss.png){ width=150;}
 { .card }
 
 Shiny palette
-![Togekiss shiny](togekiss-shiny.png){ width=150;} 
+![Togekiss shiny](ENK-togekiss-shiny.png){ width=150;} 
 { .card }
 
 </div>

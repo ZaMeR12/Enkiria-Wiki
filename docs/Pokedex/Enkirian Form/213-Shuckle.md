@@ -12,11 +12,11 @@ description: Learn about the Enkirian Form of Shuckle.
 
 <div class="grid" markdown>
 Normal palette
-![Shuckle normal](shuckle.png){ width=140 }
+![Shuckle normal](ENK-shuckle.png){ width=140 }
 { .card }
 
 Shiny palette
-![Shuckle shiny](shuckle-shiny.png){width=155}
+![Shuckle shiny](ENK-shuckle-shiny.png){width=155}
 { .card }
 
 </div>

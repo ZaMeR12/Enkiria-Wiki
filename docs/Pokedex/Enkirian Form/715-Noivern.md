@@ -12,11 +12,11 @@ description: Learn about the Enkirian Form of Noivern.
 
 <div class="grid" markdown>
 Normal palette
-![Noivern normal](noivern.png){ width=150;}
+![Noivern normal](ENK-noivern.png){ width=150;}
 { .card }
 
 Shiny palette
-![Noivern shiny](noivern-shiny.png){ width=142;} 
+![Noivern shiny](ENK-noivern-shiny.png){ width=142;} 
 { .card }
 
 </div>

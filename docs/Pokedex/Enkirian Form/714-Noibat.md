@@ -12,11 +12,11 @@ description: Learn about the Enkirian Form of Noibat.
 
 <div class="grid" markdown>
 Normal palette
-![Noibat normal](noibat.png){ width=150;}
+![Noibat normal](ENK-noibat.png){ width=150;}
 { .card }
 
 Shiny palette
-![Noibat shiny](noibat-shiny.png){ width=150;} 
+![Noibat shiny](ENK-noibat-shiny.png){ width=150;} 
 { .card }
 
 </div>
