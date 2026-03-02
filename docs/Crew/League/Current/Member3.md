@@ -5,7 +5,7 @@ description: Elite 4 GhostPK details and information.
 
 # GhostPK
 
-![Member 3 Art](ghost_silly.png){width=250; align=left}
+![Member 3 Art](ghost_art.png){width=250; align=left}
 
 !!! quote "Elite 4 GhostPK message"
     This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder.

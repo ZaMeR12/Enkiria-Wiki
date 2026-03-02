@@ -5,7 +5,7 @@ description: Elite 4 Ryuu details and information.
 
 # Ryuu
 
-![Member 4 Art](prof ryuu.png){width=250; align=left}
+![Member 4 Art](ryuu.png){width=250; align=left}
 
 !!! quote "Elite 4 Ryuu message"
     This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder.

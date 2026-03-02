@@ -5,7 +5,7 @@ description: Meet Professor Ryuu, the Enkiria region's Pokémon Professor, and e
 
 # Professor Ryuu
 
-![Ryuu art](ryuu.png){width=300; align=left}
+![Ryuu art](prof ryuu.png){width=300; align=left}
 
 !!! quote "Professor Ryuu message"
     Hello there! I'm Dr.Ryuu— Pokémon Professor and proud red panda! 
