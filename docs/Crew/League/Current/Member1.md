@@ -28,3 +28,6 @@ description: Elite 4 member 1 details and information.
 |      [Grimmsnarl](https://pixelmonmod.com/wiki/Grimmsnarl){:target="_blank"} </br> ![Grimmsnarl](Grimmsnarl.png){width=150}      |   ![Dark type](dark-type.png){ width=100;} </br> ![Fairy type](fairy-type.png){ width=100;}   |                         [Muscle Band](https://pixelmonmod.com/wiki/Muscle_Band){:target="_blank"} </br> ![Muscle Band](Muscle_Band.png){width=75}                         | No |
 |     [Mimikyu](https://pixelmonmod.com/wiki/Mimikyu){:target="_blank"} </br> ![Mimikyu](Mimikyu.png){width=150}      |   ![Ghost type](ghost-type.png){ width=100;} </br> ![Fairy type](fairy-type.png){ width=100;}   |        [Razor Claw](https://pixelmonmod.com/wiki/Razor_Claw){:target="_blank"} </br> ![Razor Claw](Razor_Claw.png){width=75}                                     |       No       |
 |                                            [Togekiss](https://pixelmonmod.com/wiki/Togekiss){:target="_blank"} </br> ![Togekiss](Togekiss.png){width=150}                                             |    ![Flying type](flying-type.png){ width=100;} </br> ![Fairy type](fairy-type.png){ width=100;}    | [Leftovers](https://pixelmonmod.com/wiki/Leftovers){:target="_blank"} </br> ![Leftovers](Leftovers.png){width=75} | No  |
+
+
+P.S. This man has killed the Ender Dragon using only sticks and a piece of rotten flesh.

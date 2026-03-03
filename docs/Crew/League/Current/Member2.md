@@ -12,7 +12,7 @@ description: Elite 4 Willow details and information.
 
 </br>
 
-!!! example "Single Battle"
+!!! example "Single Battle, Dynamax"
 
 ## Pokemon team
 

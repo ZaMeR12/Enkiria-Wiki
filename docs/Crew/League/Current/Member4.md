@@ -12,7 +12,7 @@ description: Elite 4 Ryuu details and information.
 
 </br>
 
-!!! example "Single Battle"
+!!! example "Single Battle, Mega Evolution"
 
 ## Pokemon team
 
