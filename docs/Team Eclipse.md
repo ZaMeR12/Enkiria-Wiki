@@ -7,7 +7,7 @@ hide:
 
 # Team Eclipse
 
-![Team Eclipse Logo](https://imgserv.zamer12.com/?url=https://placehold.co/400){width=200;}
+![Team Eclipse Logo](Team eclipse logo3.png){width=300;}
 
 
 ## Goals
