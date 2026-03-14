@@ -1,12 +1,12 @@
 ---
-title: Badges - Gym Jewels
+title: Vtuber Games 2026
 description: Explore Enkiria's Badges and their respective Gym Leaders.
 hide:
   - navigation
   - toc
 ---
 
-# Badges - Gym Jewels
+<h1 style="color: yellow;">Vtuber Games 2026</h1>
 
 !!! danger "Copyright Notice"
     All badges and Crew images are the property of their respective creators. They are used here for informational purposes only. Please respect the original creators' rights and do not use these images without permission.
