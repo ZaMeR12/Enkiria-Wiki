@@ -21,7 +21,7 @@ Bug Jewel
 </br>
 [Gym leader - Doran](Bug-Gym.md){:target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Gym Leader Bug](doran-leader.png){ width=100 }
+![Gym Leader Bug](doran 2.jpg){ width=100 }
 { .card }
 
 Dark Jewel
@@ -93,7 +93,7 @@ Ground Jewel
 </br>
 [Gym leader - Stillio](Ground-Gym.md){:target="_blank"}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Gym Leader Ground](stillio-leader.png){ width=100 }
+![Gym Leader Ground](stillio art.png){ width=100 }
 { .card }
 
 Dragon Jewel
