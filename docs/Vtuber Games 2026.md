@@ -6,20 +6,28 @@ hide:
   - toc
 ---
 
-<h1 style="color: yellow;">Vtuber Games 2026</h1>
+<div markdown style="text-align: center;">
+![Vtuber Games 2026](VTUBER_Games_2026.png){width=750}
+</div> 
 
-!!! abstract "Les Vtuber Games 2026, du 18 juillet au 1er Aout !"
+</br>
+
+
+!!! calendar "Les Vtuber Games 2026, du 18 juillet au 1er Aout !"
+
+
+</br>
 
 <h1 style="color: yellow;">Skinekko</h1>
 
-![Skinekko](logo.png){width=250; align=left}
+![Skinekko](Skinekko.png){width=250; align=left}
 
 !!! quote "Skinekko, Organisateur"
     This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder. This is a placeholder.
 
 </br> </br> </br> </br>
 
-<h1 style="color: yellow;">Les Équipes</h1>
+</br> </br> </br> <h1 style="color: yellow;">Les Équipes</h1>
 
 <div markdown style="display:flex;">
   <div markdown style="flex:1;">
