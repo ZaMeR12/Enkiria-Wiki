@@ -1,6 +1,6 @@
 ---
 title: Vtuber Games 2026
-description: Explore Enkiria's Badges and their respective Gym Leaders.
+description: La Convergence est a nos portes! Ferez-vous parti de l'aventure?
 hide:
   - navigation
   - toc
@@ -24,10 +24,10 @@ hide:
 
 | | CIRCUITS CÉLESTES </br> ![Circuits Célestes](Circuits_Celestes_transparent.png){width=150} |
 | :---: | :---: |
-| Mevennuss </br> ![Chef d'Équipe Mevennuss](Mevennuss.png){width=150} | MEMBRE 1 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} |
-| MEMBRE 1 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} | MEMBRE 1 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} |
-| MEMBRE 1 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} | MEMBRE 1 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} |
-| Membre 1 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} | MEMBRE 1 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} |
+| Chouette Blanche </br> ![ChouetteBlanche - Detective Agency](chouetteblanche_detective.png){width=150} | Chef d'Équipe Mevennuss </br> ![Chef d'Équipe Mevennuss](Mevennuss.png){width=150} |
+| Yerdua Lune </br> ![yerdualune](yerdualune.png){width=150} | Yaga Capy </br> ![yagacapy](yagacapy.png){width=150} |
+| Cat Moustillon </br> ![catmoustillon](catmoustillon.png){width=150} | Luz_ette </br> ![Luz_ette](luz_ette.png){width=150} |
+| Yuki </br> ![VTYukiUwU](vtyukiuwu.png){width=150} |
 
   </div>
 
@@ -35,10 +35,10 @@ hide:
 
 | SORCIERS SUCRÉS </br> ![Sorciers Sucrés](Sorciers_Sucres_transparent.png){width=150} | |
 | :---: | :---: |
-| Captain Matagot </br> ![Chef d'Équipe Captain Matagot](Matagot.png){width=150} | MEMBRE 2 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} |
-| MEMBRE 2 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} | MEMBRE 2 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} |
-| MEMBRE 2 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} | MEMBRE 2 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} |
-| MEMBRE 2 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} | MEMBRE 2 </br> ![Enkirian Bewear](ENK-bewear.png){width=150} |
+| Chef d'Équipe Captain Matagot </br> ![Chef d'Équipe Captain Matagot](Matagot.png){width=150} | Zekko </br> ![zekkotheyeen](Zekkotheyeen.png){width=150} |
+| Astor Nemura </br> ![Astor Nemura](astor_nemura.png){width=150} | Amaroux </br> ![Amarouxneko](amarouxneko.png){width=150} |
+| Mikenlos </br> ![Mikenlos](mikenlos.png){width=150} | Bècha </br> ![bechameeeel](bechameeeel.png){width=150} |
+| Shao Pix </br> ![Shao_Pix](shao_pix.png){width=150} | Pyprin </br> ![Pyprin](pyprin1.png){width=150} |
 
   </div>
 </div>
