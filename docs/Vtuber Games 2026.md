@@ -22,23 +22,23 @@ hide:
 <div markdown style="display:flex;">
   <div markdown style="flex:1;">
 
-| | CIRCUITS CÉLESTES </br> ![Circuits Célestes](Circuits_Celestes_transparent.png){width=150} |
+| | |
 | :---: | :---: |
-| Chouette Blanche </br> ![ChouetteBlanche - Detective Agency](chouetteblanche_detective.png){width=150} | Chef d'Équipe Mevennuss </br> ![Chef d'Équipe Mevennuss](Mevennuss.png){width=150} |
+| CIRCUITS CÉLESTES </br> ![Circuits Célestes](Circuits_Celestes_transparent.png){width=150} | Chef d'Équipe Mevennuss </br> ![Chef d'Équipe Mevennuss](Mevennuss.png){width=150} |
 | Yerdua Lune </br> ![yerdualune](yerdualune.png){width=150} | Yaga Capy </br> ![yagacapy](yagacapy.png){width=150} |
-| Cat Moustillon </br> ![catmoustillon](catmoustillon.png){width=150} | Luz_ette </br> ![Luz_ette](luz_ette.png){width=150} |
-| Yuki </br> ![VTYukiUwU](vtyukiuwu.png){width=150} |
+| Cat Moustillon </br> ![catmoustillon](catmoustillon.png){width=150} | Chouette Blanche </br> ![ChouetteBlanche - Detective Agency](chouetteblanche_detective.png){width=150} |
+| Yuki </br> ![VTYukiUwU](yukiuwu.png){width=150} | Luz_ette </br> ![Luz_ette](luz_ette.png){width=150} |
 
   </div>
 
   <div markdown style="text-align: left;">
 
-| SORCIERS SUCRÉS </br> ![Sorciers Sucrés](Sorciers_Sucres_transparent.png){width=150} | |
+| | |
 | :---: | :---: |
-| Chef d'Équipe Captain Matagot </br> ![Chef d'Équipe Captain Matagot](Matagot.png){width=150} | Zekko </br> ![zekkotheyeen](Zekkotheyeen.png){width=150} |
+| Chef d'Équipe Captain Matagot </br> ![Chef d'Équipe Captain Matagot](matagot2.png){width=150} | SORCIERS SUCRÉS </br> ![Sorciers Sucrés](Sorciers_Sucres_transparent.png){width=150} |
 | Astor Nemura </br> ![Astor Nemura](astor_nemura.png){width=150} | Amaroux </br> ![Amarouxneko](amarouxneko.png){width=150} |
-| Mikenlos </br> ![Mikenlos](mikenlos.png){width=150} | Bècha </br> ![bechameeeel](bechameeeel.png){width=150} |
-| Shao Pix </br> ![Shao_Pix](shao_pix.png){width=150} | Pyprin </br> ![Pyprin](pyprin1.png){width=150} |
+| Mikenlos </br> ![Mikenlos](mikenlos.png){width=150} | Pyprin </br> ![Pyprin](pyprin1.png){width=150} | 
+| Shao Pix </br> ![Shao_Pix](shao_pix.png){width=150} | Zekko </br> ![zekkotheyeen](Zekkotheyeen.png){width=150} |
 
   </div>
 </div>
