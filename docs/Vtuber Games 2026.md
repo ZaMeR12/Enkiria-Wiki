@@ -27,7 +27,7 @@ hide:
 | CIRCUITS CÉLESTES </br> ![Circuits Célestes](Circuits_Celestes_transparent.png){width=150} | Chef d'Équipe Mevennuss </br> ![Chef d'Équipe Mevennuss](Mevennuss.png){width=150} |
 | Yerdua Lune </br> ![yerdualune](yerdualune.png){width=150} | Yaga Capy </br> ![yagacapy](yagacapy.png){width=150} |
 | Cat Moustillon </br> ![catmoustillon](catmoustillon.png){width=150} | Chouette Blanche </br> ![ChouetteBlanche - Detective Agency](chouetteblanche_detective.png){width=150} |
-| Yuki </br> ![VTYukiUwU](yukiuwu.png){width=150} | Luz_ette </br> ![Luz_ette](luz_ette.png){width=150} |
+|  | Luz_ette </br> ![Luz_ette](luz_ette.png){width=150} |
 
   </div>
 
