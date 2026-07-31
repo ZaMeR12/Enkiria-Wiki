@@ -1,0 +1,5 @@
+[
+      {"Stats": "Hp", "Power": 20}, {"Stats": "Attack", "Power": 10},{"Stats": "Defense", "Power": 230},
+      {"Stats": "Sp.Attack", "Power": 10}, {"Stats": "Sp.Defense", "Power": 230},
+      {"Stats": "Speed", "Power": 5}
+]
